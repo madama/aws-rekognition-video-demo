@@ -6,16 +6,18 @@ var select = document.getElementById("selection");
 
 select.onchange = function(event) {
     loadData(event.target.value);
-    //console.log("Loaded " + celebrities.length + " celebrities")
-    console.log("Loaded " + labels.length + " labels")
-    cleanChild(video);
-    let source = document.createElement("source");
-    //source.setAttribute("src", "file:///home/daniele/Downloads/XPeppers/DeepLens/" + event.target.value + ".mp4");
-    source.setAttribute("src", "https://s3.eu-west-1.amazonaws.com/rekognition-video-demo/" + event.target.value + ".mp4");
-    source.setAttribute("type", "video/mp4");
-    source.setAttribute("class", "toClean");
-    video.appendChild(source);
-    video.load();
+    setTimeout(o => {
+        //console.log("Loaded " + celebrities.length + " celebrities")
+        console.log("Loaded " + labels.length + " labels")
+        cleanChild(video);
+        let source = document.createElement("source");
+        //source.setAttribute("src", "file:///home/daniele/Downloads/XPeppers/DeepLens/" + event.target.value + ".mp4");
+        source.setAttribute("src", "https://s3.eu-west-1.amazonaws.com/rekognition-video-demo/" + event.target.value + ".mp4");
+        source.setAttribute("type", "video/mp4");
+        source.setAttribute("class", "toClean");
+        video.appendChild(source);
+        video.load();
+    }, 500)
 }
 
 // VIDEO LISTENER
