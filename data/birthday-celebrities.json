@@ -1,0 +1,607 @@
+celebrities = [ {
+  "timestamp" : 16133,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.30078125,
+      "height" : 0.5277778,
+      "left" : 0.66796875,
+      "top" : 0.0
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 18466,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.40078124,
+      "height" : 0.89444447,
+      "left" : 0.578125,
+      "top" : 0.033333335
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 18533,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.41328126,
+      "height" : 0.9138889,
+      "left" : 0.54375,
+      "top" : 0.029166667
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 18600,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.415625,
+      "height" : 0.9138889,
+      "left" : 0.53125,
+      "top" : 0.030555556
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 18666,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.4140625,
+      "height" : 0.93472224,
+      "left" : 0.5125,
+      "top" : 0.027777778
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 18733,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.41640624,
+      "height" : 0.9652778,
+      "left" : 0.49140626,
+      "top" : 0.018055556
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 18866,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.434375,
+      "height" : 0.95694447,
+      "left" : 0.49140626,
+      "top" : 0.027777778
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 18933,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.4328125,
+      "height" : 0.96666664,
+      "left" : 0.49375,
+      "top" : 0.0125
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19066,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.421875,
+      "height" : 0.99027777,
+      "left" : 0.509375,
+      "top" : 0.0
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19133,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.4171875,
+      "height" : 0.96944445,
+      "left" : 0.5125,
+      "top" : 0.0
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19266,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.42109376,
+      "height" : 0.94722223,
+      "left" : 0.53125,
+      "top" : 0.0
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19333,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.42421874,
+      "height" : 0.98055553,
+      "left" : 0.53984374,
+      "top" : 0.0
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19400,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.42265624,
+      "height" : 0.975,
+      "left" : 0.5515625,
+      "top" : 0.0
+    },
+    "face" : {
+      "boundingBox" : {
+        "width" : 0.1109375,
+        "height" : 0.19722222,
+        "left" : 0.684375,
+        "top" : 0.011111111
+      },
+      "ageRange" : null,
+      "smile" : null,
+      "eyeglasses" : null,
+      "sunglasses" : null,
+      "gender" : null,
+      "beard" : null,
+      "mustache" : null,
+      "eyesOpen" : null,
+      "mouthOpen" : null,
+      "emotions" : null,
+      "landmarks" : [ {
+        "type" : "eyeLeft",
+        "x" : 0.726334,
+        "y" : 0.09676735
+      }, {
+        "type" : "eyeRight",
+        "x" : 0.76588666,
+        "y" : 0.10204149
+      }, {
+        "type" : "nose",
+        "x" : 0.74892396,
+        "y" : 0.13388589
+      }, {
+        "type" : "mouthLeft",
+        "x" : 0.7243978,
+        "y" : 0.16577217
+      }, {
+        "type" : "mouthRight",
+        "x" : 0.7529973,
+        "y" : 0.17262916
+      } ],
+      "pose" : {
+        "roll" : 3.3871787,
+        "yaw" : 17.13553,
+        "pitch" : 6.1650577
+      },
+      "quality" : {
+        "brightness" : 39.937107,
+        "sharpness" : 98.55191
+      },
+      "confidence" : 99.99416
+    }
+  }
+}, {
+  "timestamp" : 19466,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.40546876,
+      "height" : 0.9763889,
+      "left" : 0.56328124,
+      "top" : 0.0
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19533,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 50.0,
+    "boundingBox" : {
+      "width" : 0.39375,
+      "height" : 0.9736111,
+      "left" : 0.58203125,
+      "top" : 0.0
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19666,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.39296874,
+      "height" : 0.9791667,
+      "left" : 0.5921875,
+      "top" : 0.0
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19733,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.39296874,
+      "height" : 0.9777778,
+      "left" : 0.596875,
+      "top" : 0.0
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19799,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.37578124,
+      "height" : 0.9777778,
+      "left" : 0.6140625,
+      "top" : 0.0
+    },
+    "face" : {
+      "boundingBox" : {
+        "width" : 0.10234375,
+        "height" : 0.18194444,
+        "left" : 0.75703126,
+        "top" : 0.0
+      },
+      "ageRange" : null,
+      "smile" : null,
+      "eyeglasses" : null,
+      "sunglasses" : null,
+      "gender" : null,
+      "beard" : null,
+      "mustache" : null,
+      "eyesOpen" : null,
+      "mouthOpen" : null,
+      "emotions" : null,
+      "landmarks" : [ {
+        "type" : "eyeLeft",
+        "x" : 0.78711414,
+        "y" : 0.0607708
+      }, {
+        "type" : "eyeRight",
+        "x" : 0.83203095,
+        "y" : 0.05861601
+      }, {
+        "type" : "nose",
+        "x" : 0.81357193,
+        "y" : 0.105002
+      }, {
+        "type" : "mouthLeft",
+        "x" : 0.79427606,
+        "y" : 0.13105115
+      }, {
+        "type" : "mouthRight",
+        "x" : 0.82628214,
+        "y" : 0.12900968
+      } ],
+      "pose" : {
+        "roll" : -1.8847678,
+        "yaw" : 6.1201134,
+        "pitch" : -9.539101
+      },
+      "quality" : {
+        "brightness" : 37.52446,
+        "sharpness" : 97.615074
+      },
+      "confidence" : 99.9662
+    }
+  }
+}, {
+  "timestamp" : 19866,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.36875,
+      "height" : 0.98194444,
+      "left" : 0.625,
+      "top" : 0.0
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19933,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.36640626,
+      "height" : 0.9763889,
+      "left" : 0.63359374,
+      "top" : 0.004166667
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 19999,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.33359376,
+      "height" : 0.99444443,
+      "left" : 0.65625,
+      "top" : 0.0055555557
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 20066,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.31328124,
+      "height" : 0.9777778,
+      "left" : 0.68046874,
+      "top" : 0.022222223
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 20133,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.3234375,
+      "height" : 0.9652778,
+      "left" : 0.66875,
+      "top" : 0.034722224
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 20199,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.32109374,
+      "height" : 0.9611111,
+      "left" : 0.6703125,
+      "top" : 0.03888889
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 20266,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.32265624,
+      "height" : 0.9583333,
+      "left" : 0.6695312,
+      "top" : 0.041666668
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 20333,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.30703124,
+      "height" : 0.97083336,
+      "left" : 0.6875,
+      "top" : 0.029166667
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 20399,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.303125,
+      "height" : 0.95694447,
+      "left" : 0.6890625,
+      "top" : 0.043055557
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 20466,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.3109375,
+      "height" : 0.9513889,
+      "left" : 0.68125,
+      "top" : 0.048611112
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 20533,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.30234376,
+      "height" : 0.9527778,
+      "left" : 0.690625,
+      "top" : 0.047222223
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 20933,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.3140625,
+      "height" : 0.8888889,
+      "left" : 0.6734375,
+      "top" : 0.11111111
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 21066,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.31015626,
+      "height" : 0.925,
+      "left" : 0.6734375,
+      "top" : 0.075
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 21133,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.32109374,
+      "height" : 0.94722223,
+      "left" : 0.65703124,
+      "top" : 0.05277778
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 21199,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.32734376,
+      "height" : 0.9583333,
+      "left" : 0.646875,
+      "top" : 0.041666668
+    },
+    "face" : null
+  }
+}, {
+  "timestamp" : 21266,
+  "celebrity" : {
+    "urls" : [ "www.imdb.com/name/nm0257183" ],
+    "name" : "Constanze Engelbrecht",
+    "id" : "1b9G0k",
+    "confidence" : 71.0,
+    "boundingBox" : {
+      "width" : 0.34140626,
+      "height" : 0.94861114,
+      "left" : 0.6375,
+      "top" : 0.05138889
+    },
+    "face" : null
+  }
+} ]

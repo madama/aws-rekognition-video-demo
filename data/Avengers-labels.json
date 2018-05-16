@@ -1,0 +1,11317 @@
+labels = [ {
+  "timestamp" : 0,
+  "label" : {
+    "name" : "Blizzard",
+    "confidence" : 98.6316
+  }
+}, {
+  "timestamp" : 0,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 98.4263
+  }
+}, {
+  "timestamp" : 0,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 96.8526
+  }
+}, {
+  "timestamp" : 0,
+  "label" : {
+    "name" : "Snow",
+    "confidence" : 98.251495
+  }
+}, {
+  "timestamp" : 0,
+  "label" : {
+    "name" : "Storm",
+    "confidence" : 98.741104
+  }
+}, {
+  "timestamp" : 0,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 96.8526
+  }
+}, {
+  "timestamp" : 0,
+  "label" : {
+    "name" : "Winter",
+    "confidence" : 98.4263
+  }
+}, {
+  "timestamp" : 375,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 55.2703
+  }
+}, {
+  "timestamp" : 583,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 53.315197
+  }
+}, {
+  "timestamp" : 583,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 62.259197
+  }
+}, {
+  "timestamp" : 583,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 50.3411
+  }
+}, {
+  "timestamp" : 792,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 64.7314
+  }
+}, {
+  "timestamp" : 792,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 71.785095
+  }
+}, {
+  "timestamp" : 792,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 58.5076
+  }
+}, {
+  "timestamp" : 792,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 62.8752
+  }
+}, {
+  "timestamp" : 792,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 52.1191
+  }
+}, {
+  "timestamp" : 959,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 57.146103
+  }
+}, {
+  "timestamp" : 959,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 61.7632
+  }
+}, {
+  "timestamp" : 959,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 73.2342
+  }
+}, {
+  "timestamp" : 959,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 78.5874
+  }
+}, {
+  "timestamp" : 959,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 68.5109
+  }
+}, {
+  "timestamp" : 959,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 71.8255
+  }
+}, {
+  "timestamp" : 959,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 59.8245
+  }
+}, {
+  "timestamp" : 1167,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 62.6002
+  }
+}, {
+  "timestamp" : 1167,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 63.371998
+  }
+}, {
+  "timestamp" : 1167,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 74.3604
+  }
+}, {
+  "timestamp" : 1167,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 79.488304
+  }
+}, {
+  "timestamp" : 1167,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 69.8357
+  }
+}, {
+  "timestamp" : 1167,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 73.010895
+  }
+}, {
+  "timestamp" : 1167,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 64.9377
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 54.837696
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 69.685104
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "City",
+    "confidence" : 54.5277
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 72.4369
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 54.837696
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 80.705795
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 54.837696
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 84.5647
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 54.837696
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 77.301
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 79.6904
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 54.5277
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 71.5798
+  }
+}, {
+  "timestamp" : 1376,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 61.4117
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 52.0289
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 74.7108
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "City",
+    "confidence" : 62.0661
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 76.7958
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 52.0289
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 83.7571
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 52.0289
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 87.0057
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 52.0289
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 80.89069
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 82.9022
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 62.0661
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 76.2913
+  }
+}, {
+  "timestamp" : 1584,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 67.5141
+  }
+}, {
+  "timestamp" : 1793,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 76.5932
+  }
+}, {
+  "timestamp" : 1793,
+  "label" : {
+    "name" : "City",
+    "confidence" : 64.8897
+  }
+}, {
+  "timestamp" : 1793,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 75.9449
+  }
+}, {
+  "timestamp" : 1793,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 83.1615
+  }
+}, {
+  "timestamp" : 1793,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 86.5292
+  }
+}, {
+  "timestamp" : 1793,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 80.19
+  }
+}, {
+  "timestamp" : 1793,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 82.2752
+  }
+}, {
+  "timestamp" : 1793,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 64.8897
+  }
+}, {
+  "timestamp" : 1793,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 78.0561
+  }
+}, {
+  "timestamp" : 1793,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 66.3229
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 56.0899
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 82.2367
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "City",
+    "confidence" : 73.3551
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 74.7599
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 56.0899
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 82.332
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 56.0899
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 85.8656
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 56.0899
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 79.2141
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 81.4021
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 73.3551
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 83.3469
+  }
+}, {
+  "timestamp" : 1960,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 64.6639
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 51.9153
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 83.475204
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "City",
+    "confidence" : 75.2128
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 76.470795
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 51.9153
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 83.529594
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 51.9153
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 86.8237
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 51.9153
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 80.623
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 82.662704
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 75.2128
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 84.508
+  }
+}, {
+  "timestamp" : 2168,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 67.059204
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 56.0826
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 82.6083
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "City",
+    "confidence" : 73.9124
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Downtown",
+    "confidence" : 52.0248
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 74.374596
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 56.0826
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 82.0622
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 56.0826
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 85.6498
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 56.0826
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 78.8967
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 81.1181
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 73.9124
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 83.6953
+  }
+}, {
+  "timestamp" : 2377,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 64.124504
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 55.9428
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 81.5305
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "City",
+    "confidence" : 72.2957
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Downtown",
+    "confidence" : 53.398903
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 77.0569
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 55.9428
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 83.939804
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 55.9428
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 87.1518
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 55.9428
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 81.1056
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 83.0945
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 72.2957
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 82.6848
+  }
+}, {
+  "timestamp" : 2585,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 67.8796
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 64.6841
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 56.7324
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 79.539696
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "City",
+    "confidence" : 69.3096
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 78.134
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 64.6841
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 84.6938
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 64.6841
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 87.755
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 64.6841
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 81.9927
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 83.88821
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 69.3096
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 80.8185
+  }
+}, {
+  "timestamp" : 2794,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 69.3876
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 60.175102
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 71.7298
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 77.6113
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "City",
+    "confidence" : 66.4169
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 79.8291
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "High Rise",
+    "confidence" : 54.767696
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 60.175102
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 85.8804
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 60.175102
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 88.7043
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 60.175102
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Skyscraper",
+    "confidence" : 58.8798
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 83.388695
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 85.1372
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 66.4169
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 79.0106
+  }
+}, {
+  "timestamp" : 2961,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 71.760704
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 55.9573
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 68.4377
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 76.7835
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "City",
+    "confidence" : 65.1753
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 79.2916
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 55.9573
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 85.504105
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 55.9573
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 88.403305
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 55.9573
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Skyscraper",
+    "confidence" : 54.091198
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 82.946
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 84.741196
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 65.1753
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 78.2345
+  }
+}, {
+  "timestamp" : 3169,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 71.0082
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 63.2889
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 77.5954
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "City",
+    "confidence" : 66.393105
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 75.059006
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 82.5413
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 86.0331
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 79.4604
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 81.6224
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 66.393105
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 78.9957
+  }
+}, {
+  "timestamp" : 3378,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 65.082596
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 53.5002
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 78.9767
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "City",
+    "confidence" : 68.4651
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 69.2045
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 78.4432
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 82.7545
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 74.639
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 77.3086
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 68.4651
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 80.290695
+  }
+}, {
+  "timestamp" : 3586,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 56.8863
+  }
+}, {
+  "timestamp" : 3795,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 78.9359
+  }
+}, {
+  "timestamp" : 3795,
+  "label" : {
+    "name" : "City",
+    "confidence" : 68.4039
+  }
+}, {
+  "timestamp" : 3795,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 69.1233
+  }
+}, {
+  "timestamp" : 3795,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 78.3863
+  }
+}, {
+  "timestamp" : 3795,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 82.709
+  }
+}, {
+  "timestamp" : 3795,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 74.5721
+  }
+}, {
+  "timestamp" : 3795,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 77.248695
+  }
+}, {
+  "timestamp" : 3795,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 68.4039
+  }
+}, {
+  "timestamp" : 3795,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 80.252396
+  }
+}, {
+  "timestamp" : 3795,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 56.772602
+  }
+}, {
+  "timestamp" : 3962,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 80.494896
+  }
+}, {
+  "timestamp" : 3962,
+  "label" : {
+    "name" : "City",
+    "confidence" : 70.7424
+  }
+}, {
+  "timestamp" : 3962,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 65.4265
+  }
+}, {
+  "timestamp" : 3962,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 75.7985
+  }
+}, {
+  "timestamp" : 3962,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 80.6388
+  }
+}, {
+  "timestamp" : 3962,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 71.5277
+  }
+}, {
+  "timestamp" : 3962,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 74.5248
+  }
+}, {
+  "timestamp" : 3962,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 70.7424
+  }
+}, {
+  "timestamp" : 3962,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 81.714
+  }
+}, {
+  "timestamp" : 3962,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 51.597
+  }
+}, {
+  "timestamp" : 4170,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 81.7014
+  }
+}, {
+  "timestamp" : 4170,
+  "label" : {
+    "name" : "City",
+    "confidence" : 72.5521
+  }
+}, {
+  "timestamp" : 4170,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 66.297
+  }
+}, {
+  "timestamp" : 4170,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 76.4079
+  }
+}, {
+  "timestamp" : 4170,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 81.126396
+  }
+}, {
+  "timestamp" : 4170,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 72.244606
+  }
+}, {
+  "timestamp" : 4170,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 75.1662
+  }
+}, {
+  "timestamp" : 4170,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 72.5521
+  }
+}, {
+  "timestamp" : 4170,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 82.8451
+  }
+}, {
+  "timestamp" : 4170,
+  "label" : {
+    "name" : "Weather",
+    "confidence" : 52.815903
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 56.273903
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 82.0553
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "City",
+    "confidence" : 73.083
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 63.9915
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 56.273903
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 78.136894
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 56.273903
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 79.8352
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 56.273903
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 70.3459
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 73.4674
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 73.083
+  }
+}, {
+  "timestamp" : 4379,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 83.176895
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 65.2009
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 80.1901
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "City",
+    "confidence" : 70.2851
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 62.4089
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 65.2009
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 82.600494
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 65.2009
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 78.949
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 65.2009
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 69.0426
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 72.3013
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 70.2851
+  }
+}, {
+  "timestamp" : 4587,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 81.4282
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 70.9931
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 77.1557
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "City",
+    "confidence" : 65.7335
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 58.484203
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 70.9931
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 85.4965
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 70.9931
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 76.751205
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 70.9931
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 65.8105
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 69.4094
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 65.7335
+  }
+}, {
+  "timestamp" : 4796,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 78.583405
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 63.9262
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 72.265396
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "City",
+    "confidence" : 58.398098
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 57.7969
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 63.9262
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 81.9631
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 63.9262
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 76.3663
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 63.9262
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 65.2445
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 68.903
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 58.398098
+  }
+}, {
+  "timestamp" : 4963,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 73.9988
+  }
+}, {
+  "timestamp" : 5171,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 70.6063
+  }
+}, {
+  "timestamp" : 5171,
+  "label" : {
+    "name" : "City",
+    "confidence" : 55.909504
+  }
+}, {
+  "timestamp" : 5171,
+  "label" : {
+    "name" : "Fog",
+    "confidence" : 52.587
+  }
+}, {
+  "timestamp" : 5171,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 73.5914
+  }
+}, {
+  "timestamp" : 5171,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 73.4487
+  }
+}, {
+  "timestamp" : 5171,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 60.954
+  }
+}, {
+  "timestamp" : 5171,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 65.0641
+  }
+}, {
+  "timestamp" : 5171,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 55.909504
+  }
+}, {
+  "timestamp" : 5171,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 72.443405
+  }
+}, {
+  "timestamp" : 5380,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 66.904495
+  }
+}, {
+  "timestamp" : 5380,
+  "label" : {
+    "name" : "City",
+    "confidence" : 50.3568
+  }
+}, {
+  "timestamp" : 5380,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 73.8654
+  }
+}, {
+  "timestamp" : 5380,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 70.0103
+  }
+}, {
+  "timestamp" : 5380,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 55.8975
+  }
+}, {
+  "timestamp" : 5380,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 60.5399
+  }
+}, {
+  "timestamp" : 5380,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 50.3568
+  }
+}, {
+  "timestamp" : 5380,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 68.973
+  }
+}, {
+  "timestamp" : 5588,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 66.241196
+  }
+}, {
+  "timestamp" : 5588,
+  "label" : {
+    "name" : "Mountain",
+    "confidence" : 53.6048
+  }
+}, {
+  "timestamp" : 5588,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 73.1631
+  }
+}, {
+  "timestamp" : 5588,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 68.6183
+  }
+}, {
+  "timestamp" : 5588,
+  "label" : {
+    "name" : "Smog",
+    "confidence" : 53.850502
+  }
+}, {
+  "timestamp" : 5588,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 58.708298
+  }
+}, {
+  "timestamp" : 5588,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 68.351105
+  }
+}, {
+  "timestamp" : 5797,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 60.7685
+  }
+}, {
+  "timestamp" : 5797,
+  "label" : {
+    "name" : "Mountain",
+    "confidence" : 57.6877
+  }
+}, {
+  "timestamp" : 5797,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 68.952
+  }
+}, {
+  "timestamp" : 5797,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 64.7416
+  }
+}, {
+  "timestamp" : 5797,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 53.6074
+  }
+}, {
+  "timestamp" : 5797,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 63.2205
+  }
+}, {
+  "timestamp" : 5964,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 56.3545
+  }
+}, {
+  "timestamp" : 5964,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 64.802704
+  }
+}, {
+  "timestamp" : 5964,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 59.319103
+  }
+}, {
+  "timestamp" : 5964,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 59.0824
+  }
+}, {
+  "timestamp" : 6172,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 61.3597
+  }
+}, {
+  "timestamp" : 6172,
+  "label" : {
+    "name" : "Pollution",
+    "confidence" : 51.2335
+  }
+}, {
+  "timestamp" : 6172,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 50.3181
+  }
+}, {
+  "timestamp" : 10176,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.2004
+  }
+}, {
+  "timestamp" : 10176,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.4007
+  }
+}, {
+  "timestamp" : 10176,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.2004
+  }
+}, {
+  "timestamp" : 10176,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 56.965797
+  }
+}, {
+  "timestamp" : 10176,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 54.575
+  }
+}, {
+  "timestamp" : 10385,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.8468
+  }
+}, {
+  "timestamp" : 10385,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.6934
+  }
+}, {
+  "timestamp" : 10385,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.8468
+  }
+}, {
+  "timestamp" : 10385,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 61.1758
+  }
+}, {
+  "timestamp" : 10385,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 59.018898
+  }
+}, {
+  "timestamp" : 10385,
+  "label" : {
+    "name" : "Transportation",
+    "confidence" : 50.8227
+  }
+}, {
+  "timestamp" : 10593,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.416695
+  }
+}, {
+  "timestamp" : 10593,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.833405
+  }
+}, {
+  "timestamp" : 10593,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.416695
+  }
+}, {
+  "timestamp" : 10593,
+  "label" : {
+    "name" : "Subway",
+    "confidence" : 50.624
+  }
+}, {
+  "timestamp" : 10593,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 63.6177
+  }
+}, {
+  "timestamp" : 10593,
+  "label" : {
+    "name" : "Train",
+    "confidence" : 50.624
+  }
+}, {
+  "timestamp" : 10593,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 61.5965
+  }
+}, {
+  "timestamp" : 10593,
+  "label" : {
+    "name" : "Transportation",
+    "confidence" : 53.9158
+  }
+}, {
+  "timestamp" : 10760,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.3526
+  }
+}, {
+  "timestamp" : 10760,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.7051
+  }
+}, {
+  "timestamp" : 10760,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.3526
+  }
+}, {
+  "timestamp" : 10760,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 61.035503
+  }
+}, {
+  "timestamp" : 10760,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 58.8708
+  }
+}, {
+  "timestamp" : 10760,
+  "label" : {
+    "name" : "Transportation",
+    "confidence" : 50.645
+  }
+}, {
+  "timestamp" : 10969,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.3096
+  }
+}, {
+  "timestamp" : 10969,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.6191
+  }
+}, {
+  "timestamp" : 10969,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.3096
+  }
+}, {
+  "timestamp" : 10969,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 58.4153
+  }
+}, {
+  "timestamp" : 10969,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 56.105
+  }
+}, {
+  "timestamp" : 11177,
+  "label" : {
+    "name" : "Bench",
+    "confidence" : 52.6205
+  }
+}, {
+  "timestamp" : 11177,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.1999
+  }
+}, {
+  "timestamp" : 11177,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.3996
+  }
+}, {
+  "timestamp" : 11177,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.1999
+  }
+}, {
+  "timestamp" : 11177,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 54.6705
+  }
+}, {
+  "timestamp" : 11177,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 52.1522
+  }
+}, {
+  "timestamp" : 11386,
+  "label" : {
+    "name" : "Bench",
+    "confidence" : 52.4683
+  }
+}, {
+  "timestamp" : 11386,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.1331
+  }
+}, {
+  "timestamp" : 11386,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.266
+  }
+}, {
+  "timestamp" : 11386,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.1331
+  }
+}, {
+  "timestamp" : 11386,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 57.9964
+  }
+}, {
+  "timestamp" : 11386,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 55.6629
+  }
+}, {
+  "timestamp" : 11594,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 50.633102
+  }
+}, {
+  "timestamp" : 11594,
+  "label" : {
+    "name" : "Bench",
+    "confidence" : 57.5858
+  }
+}, {
+  "timestamp" : 11594,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 50.633102
+  }
+}, {
+  "timestamp" : 11594,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.897705
+  }
+}, {
+  "timestamp" : 11594,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 50.633102
+  }
+}, {
+  "timestamp" : 11594,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.7951
+  }
+}, {
+  "timestamp" : 11594,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.897705
+  }
+}, {
+  "timestamp" : 11594,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 57.6103
+  }
+}, {
+  "timestamp" : 11594,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 55.2553
+  }
+}, {
+  "timestamp" : 11761,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 51.045902
+  }
+}, {
+  "timestamp" : 11761,
+  "label" : {
+    "name" : "Bench",
+    "confidence" : 53.161697
+  }
+}, {
+  "timestamp" : 11761,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 51.045902
+  }
+}, {
+  "timestamp" : 11761,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 51.045902
+  }
+}, {
+  "timestamp" : 11761,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 55.1162
+  }
+}, {
+  "timestamp" : 11761,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 52.6227
+  }
+}, {
+  "timestamp" : 11970,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 51.398598
+  }
+}, {
+  "timestamp" : 11970,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 51.398598
+  }
+}, {
+  "timestamp" : 11970,
+  "label" : {
+    "name" : "Den",
+    "confidence" : 56.665302
+  }
+}, {
+  "timestamp" : 11970,
+  "label" : {
+    "name" : "Dog House",
+    "confidence" : 56.665302
+  }
+}, {
+  "timestamp" : 11970,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.762695
+  }
+}, {
+  "timestamp" : 11970,
+  "label" : {
+    "name" : "Kennel",
+    "confidence" : 56.665302
+  }
+}, {
+  "timestamp" : 11970,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 51.398598
+  }
+}, {
+  "timestamp" : 11970,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.5252
+  }
+}, {
+  "timestamp" : 11970,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.762695
+  }
+}, {
+  "timestamp" : 11970,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 50.9548
+  }
+}, {
+  "timestamp" : 12178,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 52.2179
+  }
+}, {
+  "timestamp" : 12178,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 52.2179
+  }
+}, {
+  "timestamp" : 12178,
+  "label" : {
+    "name" : "Den",
+    "confidence" : 57.377304
+  }
+}, {
+  "timestamp" : 12178,
+  "label" : {
+    "name" : "Dog House",
+    "confidence" : 57.377304
+  }
+}, {
+  "timestamp" : 12178,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.799095
+  }
+}, {
+  "timestamp" : 12178,
+  "label" : {
+    "name" : "Kennel",
+    "confidence" : 57.377304
+  }
+}, {
+  "timestamp" : 12178,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 52.2179
+  }
+}, {
+  "timestamp" : 12178,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.5981
+  }
+}, {
+  "timestamp" : 12178,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.799095
+  }
+}, {
+  "timestamp" : 12387,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 52.0364
+  }
+}, {
+  "timestamp" : 12387,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 52.0364
+  }
+}, {
+  "timestamp" : 12387,
+  "label" : {
+    "name" : "Den",
+    "confidence" : 55.6822
+  }
+}, {
+  "timestamp" : 12387,
+  "label" : {
+    "name" : "Dog House",
+    "confidence" : 55.6822
+  }
+}, {
+  "timestamp" : 12387,
+  "label" : {
+    "name" : "Kennel",
+    "confidence" : 55.6822
+  }
+}, {
+  "timestamp" : 12387,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 52.0364
+  }
+}, {
+  "timestamp" : 12387,
+  "label" : {
+    "name" : "Roof",
+    "confidence" : 51.7491
+  }
+}, {
+  "timestamp" : 12595,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 51.9665
+  }
+}, {
+  "timestamp" : 12595,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 51.9665
+  }
+}, {
+  "timestamp" : 12595,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 51.9665
+  }
+}, {
+  "timestamp" : 12595,
+  "label" : {
+    "name" : "Roof",
+    "confidence" : 52.6568
+  }
+}, {
+  "timestamp" : 12762,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 52.0214
+  }
+}, {
+  "timestamp" : 12762,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 52.0214
+  }
+}, {
+  "timestamp" : 12762,
+  "label" : {
+    "name" : "Den",
+    "confidence" : 54.733402
+  }
+}, {
+  "timestamp" : 12762,
+  "label" : {
+    "name" : "Dog House",
+    "confidence" : 54.733402
+  }
+}, {
+  "timestamp" : 12762,
+  "label" : {
+    "name" : "Kennel",
+    "confidence" : 54.733402
+  }
+}, {
+  "timestamp" : 12762,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 52.0214
+  }
+}, {
+  "timestamp" : 12762,
+  "label" : {
+    "name" : "Roof",
+    "confidence" : 51.585697
+  }
+}, {
+  "timestamp" : 12971,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 51.5657
+  }
+}, {
+  "timestamp" : 12971,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 51.5657
+  }
+}, {
+  "timestamp" : 12971,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.1923
+  }
+}, {
+  "timestamp" : 12971,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 51.5657
+  }
+}, {
+  "timestamp" : 12971,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.3845
+  }
+}, {
+  "timestamp" : 12971,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.1923
+  }
+}, {
+  "timestamp" : 13179,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 50.5794
+  }
+}, {
+  "timestamp" : 13179,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 50.5794
+  }
+}, {
+  "timestamp" : 13179,
+  "label" : {
+    "name" : "Den",
+    "confidence" : 50.9561
+  }
+}, {
+  "timestamp" : 13179,
+  "label" : {
+    "name" : "Dog House",
+    "confidence" : 50.9561
+  }
+}, {
+  "timestamp" : 13179,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.655495
+  }
+}, {
+  "timestamp" : 13179,
+  "label" : {
+    "name" : "Kennel",
+    "confidence" : 50.9561
+  }
+}, {
+  "timestamp" : 13179,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 50.5794
+  }
+}, {
+  "timestamp" : 13179,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.3109
+  }
+}, {
+  "timestamp" : 13179,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.655495
+  }
+}, {
+  "timestamp" : 13388,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.811
+  }
+}, {
+  "timestamp" : 13388,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.6219
+  }
+}, {
+  "timestamp" : 13388,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.811
+  }
+}, {
+  "timestamp" : 13596,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.5613
+  }
+}, {
+  "timestamp" : 13596,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.122505
+  }
+}, {
+  "timestamp" : 13596,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.5613
+  }
+}, {
+  "timestamp" : 15765,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 57.085503
+  }
+}, {
+  "timestamp" : 15974,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 61.079197
+  }
+}, {
+  "timestamp" : 16182,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 51.5297
+  }
+}, {
+  "timestamp" : 16182,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 51.5297
+  }
+}, {
+  "timestamp" : 16182,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 67.019394
+  }
+}, {
+  "timestamp" : 16182,
+  "label" : {
+    "name" : "Gate",
+    "confidence" : 50.814598
+  }
+}, {
+  "timestamp" : 16391,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 52.7446
+  }
+}, {
+  "timestamp" : 16391,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 52.7446
+  }
+}, {
+  "timestamp" : 16391,
+  "label" : {
+    "name" : "Balcony",
+    "confidence" : 59.350002
+  }
+}, {
+  "timestamp" : 16391,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 70.5389
+  }
+}, {
+  "timestamp" : 16391,
+  "label" : {
+    "name" : "Gate",
+    "confidence" : 56.9571
+  }
+}, {
+  "timestamp" : 16599,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 53.979404
+  }
+}, {
+  "timestamp" : 16599,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 53.979404
+  }
+}, {
+  "timestamp" : 16599,
+  "label" : {
+    "name" : "Balcony",
+    "confidence" : 62.5858
+  }
+}, {
+  "timestamp" : 16599,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 69.2182
+  }
+}, {
+  "timestamp" : 16599,
+  "label" : {
+    "name" : "Gate",
+    "confidence" : 56.9838
+  }
+}, {
+  "timestamp" : 16766,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 54.528202
+  }
+}, {
+  "timestamp" : 16766,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 54.528202
+  }
+}, {
+  "timestamp" : 16766,
+  "label" : {
+    "name" : "Balcony",
+    "confidence" : 65.902695
+  }
+}, {
+  "timestamp" : 16766,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 65.7299
+  }
+}, {
+  "timestamp" : 16766,
+  "label" : {
+    "name" : "Gate",
+    "confidence" : 53.7215
+  }
+}, {
+  "timestamp" : 16975,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 55.144398
+  }
+}, {
+  "timestamp" : 16975,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 55.144398
+  }
+}, {
+  "timestamp" : 16975,
+  "label" : {
+    "name" : "Balcony",
+    "confidence" : 79.9577
+  }
+}, {
+  "timestamp" : 16975,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 69.4557
+  }
+}, {
+  "timestamp" : 17183,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 53.4059
+  }
+}, {
+  "timestamp" : 17183,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 53.4059
+  }
+}, {
+  "timestamp" : 17183,
+  "label" : {
+    "name" : "Balcony",
+    "confidence" : 82.6806
+  }
+}, {
+  "timestamp" : 17183,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 68.9932
+  }
+}, {
+  "timestamp" : 17392,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 53.9442
+  }
+}, {
+  "timestamp" : 17392,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 53.9442
+  }
+}, {
+  "timestamp" : 17392,
+  "label" : {
+    "name" : "Balcony",
+    "confidence" : 71.690796
+  }
+}, {
+  "timestamp" : 17392,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 68.3685
+  }
+}, {
+  "timestamp" : 17559,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 52.2123
+  }
+}, {
+  "timestamp" : 17559,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 52.2123
+  }
+}, {
+  "timestamp" : 17559,
+  "label" : {
+    "name" : "Balcony",
+    "confidence" : 70.174
+  }
+}, {
+  "timestamp" : 17559,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 65.8761
+  }
+}, {
+  "timestamp" : 17767,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 50.0651
+  }
+}, {
+  "timestamp" : 17767,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 50.0651
+  }
+}, {
+  "timestamp" : 17767,
+  "label" : {
+    "name" : "Balcony",
+    "confidence" : 67.0084
+  }
+}, {
+  "timestamp" : 17767,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 60.7641
+  }
+}, {
+  "timestamp" : 17976,
+  "label" : {
+    "name" : "Brick",
+    "confidence" : 52.4282
+  }
+}, {
+  "timestamp" : 18560,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 55.7683
+  }
+}, {
+  "timestamp" : 18560,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.8365
+  }
+}, {
+  "timestamp" : 18560,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.6728
+  }
+}, {
+  "timestamp" : 18560,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.8365
+  }
+}, {
+  "timestamp" : 18768,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 63.5826
+  }
+}, {
+  "timestamp" : 18768,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.4906
+  }
+}, {
+  "timestamp" : 18768,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.9811
+  }
+}, {
+  "timestamp" : 18768,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.4906
+  }
+}, {
+  "timestamp" : 18977,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 64.4076
+  }
+}, {
+  "timestamp" : 18977,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.74429
+  }
+}, {
+  "timestamp" : 18977,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.488495
+  }
+}, {
+  "timestamp" : 18977,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.74429
+  }
+}, {
+  "timestamp" : 19185,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 58.328598
+  }
+}, {
+  "timestamp" : 19185,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.765
+  }
+}, {
+  "timestamp" : 19185,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.53
+  }
+}, {
+  "timestamp" : 19185,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.765
+  }
+}, {
+  "timestamp" : 19394,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.2437
+  }
+}, {
+  "timestamp" : 19394,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.487305
+  }
+}, {
+  "timestamp" : 19394,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.2437
+  }
+}, {
+  "timestamp" : 19978,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.9968
+  }
+}, {
+  "timestamp" : 19978,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.9934
+  }
+}, {
+  "timestamp" : 19978,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.9968
+  }
+}, {
+  "timestamp" : 20061,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.8265
+  }
+}, {
+  "timestamp" : 20061,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.6529
+  }
+}, {
+  "timestamp" : 20061,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.8265
+  }
+}, {
+  "timestamp" : 21646,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6326
+  }
+}, {
+  "timestamp" : 21646,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.2651
+  }
+}, {
+  "timestamp" : 21646,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6326
+  }
+}, {
+  "timestamp" : 21855,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6647
+  }
+}, {
+  "timestamp" : 21855,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.3293
+  }
+}, {
+  "timestamp" : 21855,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6647
+  }
+}, {
+  "timestamp" : 21855,
+  "label" : {
+    "name" : "Transportation",
+    "confidence" : 50.5348
+  }
+}, {
+  "timestamp" : 22063,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.628494
+  }
+}, {
+  "timestamp" : 22063,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.257
+  }
+}, {
+  "timestamp" : 22063,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.628494
+  }
+}, {
+  "timestamp" : 22063,
+  "label" : {
+    "name" : "Transportation",
+    "confidence" : 50.57
+  }
+}, {
+  "timestamp" : 24065,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 53.459698
+  }
+}, {
+  "timestamp" : 24065,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 53.459698
+  }
+}, {
+  "timestamp" : 24274,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.3045
+  }
+}, {
+  "timestamp" : 24274,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.6088
+  }
+}, {
+  "timestamp" : 24274,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.3045
+  }
+}, {
+  "timestamp" : 24441,
+  "label" : {
+    "name" : "Face",
+    "confidence" : 64.6053
+  }
+}, {
+  "timestamp" : 24441,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.37579
+  }
+}, {
+  "timestamp" : 24441,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.751495
+  }
+}, {
+  "timestamp" : 24441,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.37579
+  }
+}, {
+  "timestamp" : 24441,
+  "label" : {
+    "name" : "Portrait",
+    "confidence" : 61.0659
+  }
+}, {
+  "timestamp" : 24649,
+  "label" : {
+    "name" : "Face",
+    "confidence" : 73.9146
+  }
+}, {
+  "timestamp" : 24649,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.38
+  }
+}, {
+  "timestamp" : 24649,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.76
+  }
+}, {
+  "timestamp" : 24649,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.38
+  }
+}, {
+  "timestamp" : 24649,
+  "label" : {
+    "name" : "Portrait",
+    "confidence" : 71.3061
+  }
+}, {
+  "timestamp" : 24858,
+  "label" : {
+    "name" : "Face",
+    "confidence" : 74.289696
+  }
+}, {
+  "timestamp" : 24858,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.397705
+  }
+}, {
+  "timestamp" : 24858,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.795395
+  }
+}, {
+  "timestamp" : 24858,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.397705
+  }
+}, {
+  "timestamp" : 24858,
+  "label" : {
+    "name" : "Portrait",
+    "confidence" : 71.7187
+  }
+}, {
+  "timestamp" : 25066,
+  "label" : {
+    "name" : "Face",
+    "confidence" : 71.175095
+  }
+}, {
+  "timestamp" : 25066,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.3958
+  }
+}, {
+  "timestamp" : 25066,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.7916
+  }
+}, {
+  "timestamp" : 25066,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.3958
+  }
+}, {
+  "timestamp" : 25066,
+  "label" : {
+    "name" : "Portrait",
+    "confidence" : 68.292496
+  }
+}, {
+  "timestamp" : 25275,
+  "label" : {
+    "name" : "Face",
+    "confidence" : 53.340603
+  }
+}, {
+  "timestamp" : 25275,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.4246
+  }
+}, {
+  "timestamp" : 25275,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.8492
+  }
+}, {
+  "timestamp" : 25275,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.4246
+  }
+}, {
+  "timestamp" : 25442,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.4396
+  }
+}, {
+  "timestamp" : 25442,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.8792
+  }
+}, {
+  "timestamp" : 25442,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.4396
+  }
+}, {
+  "timestamp" : 25650,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7151
+  }
+}, {
+  "timestamp" : 25650,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.4301
+  }
+}, {
+  "timestamp" : 25650,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7151
+  }
+}, {
+  "timestamp" : 25859,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.3323
+  }
+}, {
+  "timestamp" : 25859,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.664604
+  }
+}, {
+  "timestamp" : 25859,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.3323
+  }
+}, {
+  "timestamp" : 26067,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.4851
+  }
+}, {
+  "timestamp" : 26067,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.9702
+  }
+}, {
+  "timestamp" : 26067,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.4851
+  }
+}, {
+  "timestamp" : 26276,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.4033
+  }
+}, {
+  "timestamp" : 26276,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.8065
+  }
+}, {
+  "timestamp" : 26276,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.4033
+  }
+}, {
+  "timestamp" : 26443,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 52.513897
+  }
+}, {
+  "timestamp" : 26443,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 52.513897
+  }
+}, {
+  "timestamp" : 26651,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 54.090298
+  }
+}, {
+  "timestamp" : 26651,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 54.090298
+  }
+}, {
+  "timestamp" : 26860,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 51.2905
+  }
+}, {
+  "timestamp" : 26860,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 52.5994
+  }
+}, {
+  "timestamp" : 26860,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 52.5994
+  }
+}, {
+  "timestamp" : 29070,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.3846
+  }
+}, {
+  "timestamp" : 29070,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.769104
+  }
+}, {
+  "timestamp" : 29070,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.3846
+  }
+}, {
+  "timestamp" : 29237,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 50.4318
+  }
+}, {
+  "timestamp" : 29237,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.313995
+  }
+}, {
+  "timestamp" : 29237,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.628
+  }
+}, {
+  "timestamp" : 29237,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.313995
+  }
+}, {
+  "timestamp" : 29446,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 60.615402
+  }
+}, {
+  "timestamp" : 29446,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 56.771397
+  }
+}, {
+  "timestamp" : 29446,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.5236
+  }
+}, {
+  "timestamp" : 29446,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.047104
+  }
+}, {
+  "timestamp" : 29446,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.5236
+  }
+}, {
+  "timestamp" : 29654,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 60.789196
+  }
+}, {
+  "timestamp" : 29654,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 63.8017
+  }
+}, {
+  "timestamp" : 29863,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 60.530197
+  }
+}, {
+  "timestamp" : 29863,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 59.781498
+  }
+}, {
+  "timestamp" : 29863,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.384
+  }
+}, {
+  "timestamp" : 29863,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.768
+  }
+}, {
+  "timestamp" : 29863,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.384
+  }
+}, {
+  "timestamp" : 30071,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 51.503597
+  }
+}, {
+  "timestamp" : 30071,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 59.2716
+  }
+}, {
+  "timestamp" : 31656,
+  "label" : {
+    "name" : "Banner",
+    "confidence" : 54.1668
+  }
+}, {
+  "timestamp" : 31656,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 51.1112
+  }
+}, {
+  "timestamp" : 31865,
+  "label" : {
+    "name" : "Banner",
+    "confidence" : 54.1816
+  }
+}, {
+  "timestamp" : 31865,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 51.127
+  }
+}, {
+  "timestamp" : 31865,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 53.5207
+  }
+}, {
+  "timestamp" : 32073,
+  "label" : {
+    "name" : "Banner",
+    "confidence" : 54.7294
+  }
+}, {
+  "timestamp" : 32073,
+  "label" : {
+    "name" : "Logo",
+    "confidence" : 60.0439
+  }
+}, {
+  "timestamp" : 32073,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 51.711296
+  }
+}, {
+  "timestamp" : 32073,
+  "label" : {
+    "name" : "Trademark",
+    "confidence" : 60.0439
+  }
+}, {
+  "timestamp" : 32073,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 59.912403
+  }
+}, {
+  "timestamp" : 32240,
+  "label" : {
+    "name" : "Banner",
+    "confidence" : 54.865997
+  }
+}, {
+  "timestamp" : 32240,
+  "label" : {
+    "name" : "Logo",
+    "confidence" : 75.1591
+  }
+}, {
+  "timestamp" : 32240,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 51.857002
+  }
+}, {
+  "timestamp" : 32240,
+  "label" : {
+    "name" : "Trademark",
+    "confidence" : 75.1591
+  }
+}, {
+  "timestamp" : 32240,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 64.203606
+  }
+}, {
+  "timestamp" : 32449,
+  "label" : {
+    "name" : "Banner",
+    "confidence" : 54.3401
+  }
+}, {
+  "timestamp" : 32449,
+  "label" : {
+    "name" : "Logo",
+    "confidence" : 84.037605
+  }
+}, {
+  "timestamp" : 32449,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 51.296097
+  }
+}, {
+  "timestamp" : 32449,
+  "label" : {
+    "name" : "Trademark",
+    "confidence" : 84.037605
+  }
+}, {
+  "timestamp" : 32449,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 65.1331
+  }
+}, {
+  "timestamp" : 32657,
+  "label" : {
+    "name" : "Logo",
+    "confidence" : 84.0316
+  }
+}, {
+  "timestamp" : 32657,
+  "label" : {
+    "name" : "Trademark",
+    "confidence" : 84.0316
+  }
+}, {
+  "timestamp" : 32657,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 64.2319
+  }
+}, {
+  "timestamp" : 32866,
+  "label" : {
+    "name" : "Logo",
+    "confidence" : 76.4997
+  }
+}, {
+  "timestamp" : 32866,
+  "label" : {
+    "name" : "Trademark",
+    "confidence" : 76.4997
+  }
+}, {
+  "timestamp" : 32866,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 57.715
+  }
+}, {
+  "timestamp" : 33074,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9606
+  }
+}, {
+  "timestamp" : 33074,
+  "label" : {
+    "name" : "Logo",
+    "confidence" : 62.8685
+  }
+}, {
+  "timestamp" : 33074,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9211
+  }
+}, {
+  "timestamp" : 33074,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9606
+  }
+}, {
+  "timestamp" : 33074,
+  "label" : {
+    "name" : "Trademark",
+    "confidence" : 62.8685
+  }
+}, {
+  "timestamp" : 33074,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 51.0936
+  }
+}, {
+  "timestamp" : 33241,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9303
+  }
+}, {
+  "timestamp" : 33241,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.860596
+  }
+}, {
+  "timestamp" : 33241,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9303
+  }
+}, {
+  "timestamp" : 33450,
+  "label" : {
+    "name" : "Toy",
+    "confidence" : 52.5829
+  }
+}, {
+  "timestamp" : 33658,
+  "label" : {
+    "name" : "Toy",
+    "confidence" : 53.122402
+  }
+}, {
+  "timestamp" : 33867,
+  "label" : {
+    "name" : "Toy",
+    "confidence" : 52.312702
+  }
+}, {
+  "timestamp" : 34659,
+  "label" : {
+    "name" : "Bridge",
+    "confidence" : 57.1412
+  }
+}, {
+  "timestamp" : 34659,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 54.283897
+  }
+}, {
+  "timestamp" : 34659,
+  "label" : {
+    "name" : "Viaduct",
+    "confidence" : 59.6623
+  }
+}, {
+  "timestamp" : 34868,
+  "label" : {
+    "name" : "Bridge",
+    "confidence" : 87.0138
+  }
+}, {
+  "timestamp" : 34868,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 86.1481
+  }
+}, {
+  "timestamp" : 34868,
+  "label" : {
+    "name" : "Viaduct",
+    "confidence" : 87.777695
+  }
+}, {
+  "timestamp" : 35285,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 65.5103
+  }
+}, {
+  "timestamp" : 35285,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 65.5103
+  }
+}, {
+  "timestamp" : 35285,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 50.4211
+  }
+}, {
+  "timestamp" : 35452,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 75.9702
+  }
+}, {
+  "timestamp" : 35452,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 75.9702
+  }
+}, {
+  "timestamp" : 35452,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 65.4571
+  }
+}, {
+  "timestamp" : 35452,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 63.154297
+  }
+}, {
+  "timestamp" : 35660,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 71.4197
+  }
+}, {
+  "timestamp" : 35660,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 71.4197
+  }
+}, {
+  "timestamp" : 35660,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 58.9158
+  }
+}, {
+  "timestamp" : 35660,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 56.176903
+  }
+}, {
+  "timestamp" : 35869,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 73.5142
+  }
+}, {
+  "timestamp" : 35869,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 73.5142
+  }
+}, {
+  "timestamp" : 35869,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 61.926697
+  }
+}, {
+  "timestamp" : 35869,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 59.3885
+  }
+}, {
+  "timestamp" : 36077,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 85.220894
+  }
+}, {
+  "timestamp" : 36077,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 85.220894
+  }
+}, {
+  "timestamp" : 36077,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 78.755
+  }
+}, {
+  "timestamp" : 36077,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 77.3387
+  }
+}, {
+  "timestamp" : 36286,
+  "label" : {
+    "name" : "Arch",
+    "confidence" : 65.2789
+  }
+}, {
+  "timestamp" : 36286,
+  "label" : {
+    "name" : "Arched",
+    "confidence" : 65.2789
+  }
+}, {
+  "timestamp" : 36286,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 50.088398
+  }
+}, {
+  "timestamp" : 36286,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 51.358997
+  }
+}, {
+  "timestamp" : 36453,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 59.939598
+  }
+}, {
+  "timestamp" : 36453,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 69.9212
+  }
+}, {
+  "timestamp" : 36453,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 62.443398
+  }
+}, {
+  "timestamp" : 36661,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 67.1811
+  }
+}, {
+  "timestamp" : 36661,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 72.8737
+  }
+}, {
+  "timestamp" : 36661,
+  "label" : {
+    "name" : "City",
+    "confidence" : 59.310596
+  }
+}, {
+  "timestamp" : 36661,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 67.1811
+  }
+}, {
+  "timestamp" : 36661,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 83.59061
+  }
+}, {
+  "timestamp" : 36661,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 67.1811
+  }
+}, {
+  "timestamp" : 36661,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 67.1811
+  }
+}, {
+  "timestamp" : 36661,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 59.310596
+  }
+}, {
+  "timestamp" : 36661,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 74.5691
+  }
+}, {
+  "timestamp" : 36870,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 81.8628
+  }
+}, {
+  "timestamp" : 36870,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 57.4365
+  }
+}, {
+  "timestamp" : 36870,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 81.3244
+  }
+}, {
+  "timestamp" : 36870,
+  "label" : {
+    "name" : "City",
+    "confidence" : 71.986595
+  }
+}, {
+  "timestamp" : 36870,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 81.8628
+  }
+}, {
+  "timestamp" : 36870,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 90.9314
+  }
+}, {
+  "timestamp" : 36870,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 81.8628
+  }
+}, {
+  "timestamp" : 36870,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 81.8628
+  }
+}, {
+  "timestamp" : 36870,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 71.986595
+  }
+}, {
+  "timestamp" : 36870,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 82.4916
+  }
+}, {
+  "timestamp" : 37078,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 90.866
+  }
+}, {
+  "timestamp" : 37078,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 58.659397
+  }
+}, {
+  "timestamp" : 37078,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 87.2985
+  }
+}, {
+  "timestamp" : 37078,
+  "label" : {
+    "name" : "City",
+    "confidence" : 80.9477
+  }
+}, {
+  "timestamp" : 37078,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 90.866
+  }
+}, {
+  "timestamp" : 37078,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 95.43301
+  }
+}, {
+  "timestamp" : 37078,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 90.866
+  }
+}, {
+  "timestamp" : 37078,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 90.866
+  }
+}, {
+  "timestamp" : 37078,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 80.9477
+  }
+}, {
+  "timestamp" : 37078,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 88.0923
+  }
+}, {
+  "timestamp" : 37287,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 82.377
+  }
+}, {
+  "timestamp" : 37287,
+  "label" : {
+    "name" : "Architecture",
+    "confidence" : 52.097702
+  }
+}, {
+  "timestamp" : 37287,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 79.5627
+  }
+}, {
+  "timestamp" : 37287,
+  "label" : {
+    "name" : "City",
+    "confidence" : 69.3441
+  }
+}, {
+  "timestamp" : 37287,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 82.377
+  }
+}, {
+  "timestamp" : 37287,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 91.1885
+  }
+}, {
+  "timestamp" : 37287,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 82.377
+  }
+}, {
+  "timestamp" : 37287,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 82.377
+  }
+}, {
+  "timestamp" : 37287,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 69.3441
+  }
+}, {
+  "timestamp" : 37287,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 80.840096
+  }
+}, {
+  "timestamp" : 37454,
+  "label" : {
+    "name" : "Aerial View",
+    "confidence" : 66.9093
+  }
+}, {
+  "timestamp" : 37454,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 68.2454
+  }
+}, {
+  "timestamp" : 37454,
+  "label" : {
+    "name" : "City",
+    "confidence" : 52.3681
+  }
+}, {
+  "timestamp" : 37454,
+  "label" : {
+    "name" : "Landscape",
+    "confidence" : 66.9093
+  }
+}, {
+  "timestamp" : 37454,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 83.4547
+  }
+}, {
+  "timestamp" : 37454,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 66.9093
+  }
+}, {
+  "timestamp" : 37454,
+  "label" : {
+    "name" : "Scenery",
+    "confidence" : 66.9093
+  }
+}, {
+  "timestamp" : 37454,
+  "label" : {
+    "name" : "Town",
+    "confidence" : 52.3681
+  }
+}, {
+  "timestamp" : 37454,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 70.2301
+  }
+}, {
+  "timestamp" : 37662,
+  "label" : {
+    "name" : "Building",
+    "confidence" : 52.6815
+  }
+}, {
+  "timestamp" : 37662,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 69.8413
+  }
+}, {
+  "timestamp" : 37662,
+  "label" : {
+    "name" : "Urban",
+    "confidence" : 55.638897
+  }
+}, {
+  "timestamp" : 37871,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 52.4136
+  }
+}, {
+  "timestamp" : 38455,
+  "label" : {
+    "name" : "Spaceship",
+    "confidence" : 79.2925
+  }
+}, {
+  "timestamp" : 38455,
+  "label" : {
+    "name" : "Transportation",
+    "confidence" : 65.487404
+  }
+}, {
+  "timestamp" : 38663,
+  "label" : {
+    "name" : "Spaceship",
+    "confidence" : 76.3131
+  }
+}, {
+  "timestamp" : 38663,
+  "label" : {
+    "name" : "Transportation",
+    "confidence" : 60.5219
+  }
+}, {
+  "timestamp" : 38872,
+  "label" : {
+    "name" : "Spaceship",
+    "confidence" : 79.9801
+  }
+}, {
+  "timestamp" : 38872,
+  "label" : {
+    "name" : "Transportation",
+    "confidence" : 66.6335
+  }
+}, {
+  "timestamp" : 39080,
+  "label" : {
+    "name" : "Spaceship",
+    "confidence" : 62.8241
+  }
+}, {
+  "timestamp" : 41082,
+  "label" : {
+    "name" : "Adventure",
+    "confidence" : 51.591904
+  }
+}, {
+  "timestamp" : 41291,
+  "label" : {
+    "name" : "Adventure",
+    "confidence" : 51.9139
+  }
+}, {
+  "timestamp" : 41458,
+  "label" : {
+    "name" : "Adventure",
+    "confidence" : 51.897198
+  }
+}, {
+  "timestamp" : 41666,
+  "label" : {
+    "name" : "Adventure",
+    "confidence" : 50.945503
+  }
+}, {
+  "timestamp" : 42292,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7191
+  }
+}, {
+  "timestamp" : 42292,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.4382
+  }
+}, {
+  "timestamp" : 42292,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7191
+  }
+}, {
+  "timestamp" : 42459,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.028
+  }
+}, {
+  "timestamp" : 42459,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0561
+  }
+}, {
+  "timestamp" : 42459,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.028
+  }
+}, {
+  "timestamp" : 42667,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0671
+  }
+}, {
+  "timestamp" : 42667,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1342
+  }
+}, {
+  "timestamp" : 42667,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0671
+  }
+}, {
+  "timestamp" : 42876,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0627
+  }
+}, {
+  "timestamp" : 42876,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.125305
+  }
+}, {
+  "timestamp" : 42876,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0627
+  }
+}, {
+  "timestamp" : 43084,
+  "label" : {
+    "name" : "Silhouette",
+    "confidence" : 54.023804
+  }
+}, {
+  "timestamp" : 43293,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.5115
+  }
+}, {
+  "timestamp" : 43293,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.0229
+  }
+}, {
+  "timestamp" : 43293,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.5115
+  }
+}, {
+  "timestamp" : 43293,
+  "label" : {
+    "name" : "Silhouette",
+    "confidence" : 54.012604
+  }
+}, {
+  "timestamp" : 43460,
+  "label" : {
+    "name" : "Silhouette",
+    "confidence" : 54.712097
+  }
+}, {
+  "timestamp" : 43668,
+  "label" : {
+    "name" : "Silhouette",
+    "confidence" : 54.8653
+  }
+}, {
+  "timestamp" : 43877,
+  "label" : {
+    "name" : "Silhouette",
+    "confidence" : 54.025196
+  }
+}, {
+  "timestamp" : 44252,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 50.6757
+  }
+}, {
+  "timestamp" : 44461,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 69.2657
+  }
+}, {
+  "timestamp" : 44461,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 61.5821
+  }
+}, {
+  "timestamp" : 44461,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 61.5821
+  }
+}, {
+  "timestamp" : 44461,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1342
+  }
+}, {
+  "timestamp" : 44461,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2684
+  }
+}, {
+  "timestamp" : 44461,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1342
+  }
+}, {
+  "timestamp" : 44669,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 83.7531
+  }
+}, {
+  "timestamp" : 44669,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 79.6913
+  }
+}, {
+  "timestamp" : 44669,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 79.6913
+  }
+}, {
+  "timestamp" : 44669,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1104
+  }
+}, {
+  "timestamp" : 44669,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2208
+  }
+}, {
+  "timestamp" : 44669,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1104
+  }
+}, {
+  "timestamp" : 44669,
+  "label" : {
+    "name" : "Woman",
+    "confidence" : 63.0751
+  }
+}, {
+  "timestamp" : 44878,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 84.8141
+  }
+}, {
+  "timestamp" : 44878,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 81.0176
+  }
+}, {
+  "timestamp" : 44878,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 81.0176
+  }
+}, {
+  "timestamp" : 44878,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0596
+  }
+}, {
+  "timestamp" : 44878,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1192
+  }
+}, {
+  "timestamp" : 44878,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0596
+  }
+}, {
+  "timestamp" : 44878,
+  "label" : {
+    "name" : "Woman",
+    "confidence" : 65.4865
+  }
+}, {
+  "timestamp" : 45086,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 79.0919
+  }
+}, {
+  "timestamp" : 45086,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 73.8649
+  }
+}, {
+  "timestamp" : 45086,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 73.8649
+  }
+}, {
+  "timestamp" : 45086,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0849
+  }
+}, {
+  "timestamp" : 45086,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1697
+  }
+}, {
+  "timestamp" : 45086,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0849
+  }
+}, {
+  "timestamp" : 45086,
+  "label" : {
+    "name" : "Woman",
+    "confidence" : 52.481598
+  }
+}, {
+  "timestamp" : 45253,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 62.2049
+  }
+}, {
+  "timestamp" : 45253,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 52.7561
+  }
+}, {
+  "timestamp" : 45253,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 52.7561
+  }
+}, {
+  "timestamp" : 45253,
+  "label" : {
+    "name" : "Glasses",
+    "confidence" : 50.589798
+  }
+}, {
+  "timestamp" : 45253,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8193
+  }
+}, {
+  "timestamp" : 45253,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.6386
+  }
+}, {
+  "timestamp" : 45253,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8193
+  }
+}, {
+  "timestamp" : 45462,
+  "label" : {
+    "name" : "Glasses",
+    "confidence" : 50.7546
+  }
+}, {
+  "timestamp" : 45462,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7751
+  }
+}, {
+  "timestamp" : 45462,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.5502
+  }
+}, {
+  "timestamp" : 45462,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7751
+  }
+}, {
+  "timestamp" : 45670,
+  "label" : {
+    "name" : "Glasses",
+    "confidence" : 50.7073
+  }
+}, {
+  "timestamp" : 45670,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.744896
+  }
+}, {
+  "timestamp" : 45670,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.4898
+  }
+}, {
+  "timestamp" : 45670,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.744896
+  }
+}, {
+  "timestamp" : 45879,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.749504
+  }
+}, {
+  "timestamp" : 45879,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.499
+  }
+}, {
+  "timestamp" : 45879,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.749504
+  }
+}, {
+  "timestamp" : 46087,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 66.2864
+  }
+}, {
+  "timestamp" : 46087,
+  "label" : {
+    "name" : "Rock",
+    "confidence" : 51.7139
+  }
+}, {
+  "timestamp" : 46087,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 67.9721
+  }
+}, {
+  "timestamp" : 46254,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 77.639
+  }
+}, {
+  "timestamp" : 46254,
+  "label" : {
+    "name" : "Rock",
+    "confidence" : 53.816498
+  }
+}, {
+  "timestamp" : 46254,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 78.7571
+  }
+}, {
+  "timestamp" : 46463,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 86.0928
+  }
+}, {
+  "timestamp" : 46463,
+  "label" : {
+    "name" : "Hiking",
+    "confidence" : 55.600296
+  }
+}, {
+  "timestamp" : 46463,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.3271
+  }
+}, {
+  "timestamp" : 46463,
+  "label" : {
+    "name" : "Leisure Activities",
+    "confidence" : 55.600296
+  }
+}, {
+  "timestamp" : 46463,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.6541
+  }
+}, {
+  "timestamp" : 46463,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.3271
+  }
+}, {
+  "timestamp" : 46463,
+  "label" : {
+    "name" : "Rock",
+    "confidence" : 56.224697
+  }
+}, {
+  "timestamp" : 46463,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 86.7882
+  }
+}, {
+  "timestamp" : 46671,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 89.2672
+  }
+}, {
+  "timestamp" : 46671,
+  "label" : {
+    "name" : "Hiking",
+    "confidence" : 57.2116
+  }
+}, {
+  "timestamp" : 46671,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9631
+  }
+}, {
+  "timestamp" : 46671,
+  "label" : {
+    "name" : "Leisure Activities",
+    "confidence" : 57.2116
+  }
+}, {
+  "timestamp" : 46671,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9261
+  }
+}, {
+  "timestamp" : 46671,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9631
+  }
+}, {
+  "timestamp" : 46671,
+  "label" : {
+    "name" : "Rock",
+    "confidence" : 57.5118
+  }
+}, {
+  "timestamp" : 46671,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 89.8038
+  }
+}, {
+  "timestamp" : 46880,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 86.2828
+  }
+}, {
+  "timestamp" : 46880,
+  "label" : {
+    "name" : "Hiking",
+    "confidence" : 68.9559
+  }
+}, {
+  "timestamp" : 46880,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7958
+  }
+}, {
+  "timestamp" : 46880,
+  "label" : {
+    "name" : "Leisure Activities",
+    "confidence" : 68.9559
+  }
+}, {
+  "timestamp" : 46880,
+  "label" : {
+    "name" : "Outdoors",
+    "confidence" : 53.433903
+  }
+}, {
+  "timestamp" : 46880,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.591606
+  }
+}, {
+  "timestamp" : 46880,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7958
+  }
+}, {
+  "timestamp" : 46880,
+  "label" : {
+    "name" : "Rock",
+    "confidence" : 56.2774
+  }
+}, {
+  "timestamp" : 46880,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 86.968704
+  }
+}, {
+  "timestamp" : 47088,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 81.593605
+  }
+}, {
+  "timestamp" : 47088,
+  "label" : {
+    "name" : "Hiking",
+    "confidence" : 61.2198
+  }
+}, {
+  "timestamp" : 47088,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1027
+  }
+}, {
+  "timestamp" : 47088,
+  "label" : {
+    "name" : "Leisure Activities",
+    "confidence" : 61.2198
+  }
+}, {
+  "timestamp" : 47088,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2055
+  }
+}, {
+  "timestamp" : 47088,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1027
+  }
+}, {
+  "timestamp" : 47088,
+  "label" : {
+    "name" : "Rock",
+    "confidence" : 53.8704
+  }
+}, {
+  "timestamp" : 47088,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 82.5139
+  }
+}, {
+  "timestamp" : 47255,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 63.2586
+  }
+}, {
+  "timestamp" : 47255,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1086
+  }
+}, {
+  "timestamp" : 47255,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2173
+  }
+}, {
+  "timestamp" : 47255,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1086
+  }
+}, {
+  "timestamp" : 47255,
+  "label" : {
+    "name" : "Rock",
+    "confidence" : 52.0078
+  }
+}, {
+  "timestamp" : 47255,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 65.095695
+  }
+}, {
+  "timestamp" : 47464,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 54.5262
+  }
+}, {
+  "timestamp" : 47464,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1181
+  }
+}, {
+  "timestamp" : 47464,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2362
+  }
+}, {
+  "timestamp" : 47464,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1181
+  }
+}, {
+  "timestamp" : 47672,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 69.971695
+  }
+}, {
+  "timestamp" : 47672,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 62.4646
+  }
+}, {
+  "timestamp" : 47672,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 62.4646
+  }
+}, {
+  "timestamp" : 47672,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1341
+  }
+}, {
+  "timestamp" : 47672,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.268196
+  }
+}, {
+  "timestamp" : 47672,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1341
+  }
+}, {
+  "timestamp" : 47881,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 78.891304
+  }
+}, {
+  "timestamp" : 47881,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 73.6142
+  }
+}, {
+  "timestamp" : 47881,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 73.6142
+  }
+}, {
+  "timestamp" : 47881,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.133995
+  }
+}, {
+  "timestamp" : 47881,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.268005
+  }
+}, {
+  "timestamp" : 47881,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.133995
+  }
+}, {
+  "timestamp" : 47881,
+  "label" : {
+    "name" : "Woman",
+    "confidence" : 52.025803
+  }
+}, {
+  "timestamp" : 48089,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 74.8798
+  }
+}, {
+  "timestamp" : 48089,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 68.5998
+  }
+}, {
+  "timestamp" : 48089,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 68.5998
+  }
+}, {
+  "timestamp" : 48089,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1325
+  }
+}, {
+  "timestamp" : 48089,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2651
+  }
+}, {
+  "timestamp" : 48089,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1325
+  }
+}, {
+  "timestamp" : 48256,
+  "label" : {
+    "name" : "Back",
+    "confidence" : 52.738304
+  }
+}, {
+  "timestamp" : 48256,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 79.7827
+  }
+}, {
+  "timestamp" : 48256,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 74.7284
+  }
+}, {
+  "timestamp" : 48256,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 74.7284
+  }
+}, {
+  "timestamp" : 48256,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.133995
+  }
+}, {
+  "timestamp" : 48256,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.268005
+  }
+}, {
+  "timestamp" : 48256,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.133995
+  }
+}, {
+  "timestamp" : 48256,
+  "label" : {
+    "name" : "Woman",
+    "confidence" : 54.0516
+  }
+}, {
+  "timestamp" : 48465,
+  "label" : {
+    "name" : "Back",
+    "confidence" : 59.6447
+  }
+}, {
+  "timestamp" : 48465,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 73.080894
+  }
+}, {
+  "timestamp" : 48465,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 66.3512
+  }
+}, {
+  "timestamp" : 48465,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 66.3512
+  }
+}, {
+  "timestamp" : 48465,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8661
+  }
+}, {
+  "timestamp" : 48465,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.7322
+  }
+}, {
+  "timestamp" : 48465,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8661
+  }
+}, {
+  "timestamp" : 48673,
+  "label" : {
+    "name" : "Back",
+    "confidence" : 68.6639
+  }
+}, {
+  "timestamp" : 48673,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 65.495995
+  }
+}, {
+  "timestamp" : 48673,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 56.870003
+  }
+}, {
+  "timestamp" : 48673,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 56.870003
+  }
+}, {
+  "timestamp" : 48673,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9959
+  }
+}, {
+  "timestamp" : 48673,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9918
+  }
+}, {
+  "timestamp" : 48673,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9959
+  }
+}, {
+  "timestamp" : 48882,
+  "label" : {
+    "name" : "Afro Hairstyle",
+    "confidence" : 50.3881
+  }
+}, {
+  "timestamp" : 48882,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 50.6005
+  }
+}, {
+  "timestamp" : 48882,
+  "label" : {
+    "name" : "Back",
+    "confidence" : 64.8113
+  }
+}, {
+  "timestamp" : 48882,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 55.2212
+  }
+}, {
+  "timestamp" : 48882,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 50.6005
+  }
+}, {
+  "timestamp" : 48882,
+  "label" : {
+    "name" : "Hair",
+    "confidence" : 50.3881
+  }
+}, {
+  "timestamp" : 48882,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0513
+  }
+}, {
+  "timestamp" : 48882,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 50.6005
+  }
+}, {
+  "timestamp" : 48882,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1026
+  }
+}, {
+  "timestamp" : 48882,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0513
+  }
+}, {
+  "timestamp" : 49090,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 51.6627
+  }
+}, {
+  "timestamp" : 49090,
+  "label" : {
+    "name" : "Back",
+    "confidence" : 54.4432
+  }
+}, {
+  "timestamp" : 49090,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 52.1861
+  }
+}, {
+  "timestamp" : 49090,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 51.6627
+  }
+}, {
+  "timestamp" : 49090,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0712
+  }
+}, {
+  "timestamp" : 49090,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 51.6627
+  }
+}, {
+  "timestamp" : 49090,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1425
+  }
+}, {
+  "timestamp" : 49090,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0712
+  }
+}, {
+  "timestamp" : 49257,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 52.313602
+  }
+}, {
+  "timestamp" : 49257,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 52.313602
+  }
+}, {
+  "timestamp" : 49257,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.090996
+  }
+}, {
+  "timestamp" : 49257,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 52.313602
+  }
+}, {
+  "timestamp" : 49257,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.182
+  }
+}, {
+  "timestamp" : 49257,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.090996
+  }
+}, {
+  "timestamp" : 49466,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 65.9033
+  }
+}, {
+  "timestamp" : 49466,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 52.7837
+  }
+}, {
+  "timestamp" : 49466,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 52.7837
+  }
+}, {
+  "timestamp" : 49466,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.088
+  }
+}, {
+  "timestamp" : 49466,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 52.7837
+  }
+}, {
+  "timestamp" : 49466,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.176
+  }
+}, {
+  "timestamp" : 49466,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.088
+  }
+}, {
+  "timestamp" : 49674,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 83.154205
+  }
+}, {
+  "timestamp" : 49674,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 53.5472
+  }
+}, {
+  "timestamp" : 49674,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 53.5472
+  }
+}, {
+  "timestamp" : 49674,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0945
+  }
+}, {
+  "timestamp" : 49674,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 53.5472
+  }
+}, {
+  "timestamp" : 49674,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.189
+  }
+}, {
+  "timestamp" : 49674,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0945
+  }
+}, {
+  "timestamp" : 49883,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 83.2856
+  }
+}, {
+  "timestamp" : 49883,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 52.8832
+  }
+}, {
+  "timestamp" : 49883,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 52.8832
+  }
+}, {
+  "timestamp" : 49883,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1042
+  }
+}, {
+  "timestamp" : 49883,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 52.8832
+  }
+}, {
+  "timestamp" : 49883,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2084
+  }
+}, {
+  "timestamp" : 49883,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1042
+  }
+}, {
+  "timestamp" : 50091,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 62.1494
+  }
+}, {
+  "timestamp" : 50091,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 62.1494
+  }
+}, {
+  "timestamp" : 50091,
+  "label" : {
+    "name" : "Smoke",
+    "confidence" : 54.617397
+  }
+}, {
+  "timestamp" : 50300,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 59.341198
+  }
+}, {
+  "timestamp" : 50300,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 59.341198
+  }
+}, {
+  "timestamp" : 50508,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 54.684902
+  }
+}, {
+  "timestamp" : 50508,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 54.684902
+  }
+}, {
+  "timestamp" : 50508,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.306694
+  }
+}, {
+  "timestamp" : 50508,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.6132
+  }
+}, {
+  "timestamp" : 50508,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.306694
+  }
+}, {
+  "timestamp" : 50675,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 51.9097
+  }
+}, {
+  "timestamp" : 50675,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 51.9097
+  }
+}, {
+  "timestamp" : 50675,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9896
+  }
+}, {
+  "timestamp" : 50675,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9793
+  }
+}, {
+  "timestamp" : 50675,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9896
+  }
+}, {
+  "timestamp" : 50884,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0071
+  }
+}, {
+  "timestamp" : 50884,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0142
+  }
+}, {
+  "timestamp" : 50884,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0071
+  }
+}, {
+  "timestamp" : 51092,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0111
+  }
+}, {
+  "timestamp" : 51092,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0222
+  }
+}, {
+  "timestamp" : 51092,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0111
+  }
+}, {
+  "timestamp" : 51301,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 55.519096
+  }
+}, {
+  "timestamp" : 51301,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 55.519096
+  }
+}, {
+  "timestamp" : 51301,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.123
+  }
+}, {
+  "timestamp" : 51301,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.246
+  }
+}, {
+  "timestamp" : 51301,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.123
+  }
+}, {
+  "timestamp" : 51468,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 53.6892
+  }
+}, {
+  "timestamp" : 51468,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 53.6892
+  }
+}, {
+  "timestamp" : 51468,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1213
+  }
+}, {
+  "timestamp" : 51468,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2427
+  }
+}, {
+  "timestamp" : 51468,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1213
+  }
+}, {
+  "timestamp" : 51676,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 51.108803
+  }
+}, {
+  "timestamp" : 51676,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 51.108803
+  }
+}, {
+  "timestamp" : 51676,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.113205
+  }
+}, {
+  "timestamp" : 51676,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2263
+  }
+}, {
+  "timestamp" : 51676,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.113205
+  }
+}, {
+  "timestamp" : 52677,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.5577
+  }
+}, {
+  "timestamp" : 52677,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.115395
+  }
+}, {
+  "timestamp" : 52677,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.5577
+  }
+}, {
+  "timestamp" : 52886,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.751495
+  }
+}, {
+  "timestamp" : 52886,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.5029
+  }
+}, {
+  "timestamp" : 52886,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.751495
+  }
+}, {
+  "timestamp" : 53094,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7451
+  }
+}, {
+  "timestamp" : 53094,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.4902
+  }
+}, {
+  "timestamp" : 53094,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7451
+  }
+}, {
+  "timestamp" : 55889,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0702
+  }
+}, {
+  "timestamp" : 55889,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1403
+  }
+}, {
+  "timestamp" : 55889,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0702
+  }
+}, {
+  "timestamp" : 56097,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.084595
+  }
+}, {
+  "timestamp" : 56097,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.169205
+  }
+}, {
+  "timestamp" : 56097,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.084595
+  }
+}, {
+  "timestamp" : 56306,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0683
+  }
+}, {
+  "timestamp" : 56306,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.136505
+  }
+}, {
+  "timestamp" : 56306,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0683
+  }
+}, {
+  "timestamp" : 56473,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0722
+  }
+}, {
+  "timestamp" : 56473,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1444
+  }
+}, {
+  "timestamp" : 56473,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0722
+  }
+}, {
+  "timestamp" : 56681,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0794
+  }
+}, {
+  "timestamp" : 56681,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1587
+  }
+}, {
+  "timestamp" : 56681,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0794
+  }
+}, {
+  "timestamp" : 56890,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0792
+  }
+}, {
+  "timestamp" : 56890,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1584
+  }
+}, {
+  "timestamp" : 56890,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0792
+  }
+}, {
+  "timestamp" : 57098,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1009
+  }
+}, {
+  "timestamp" : 57098,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2017
+  }
+}, {
+  "timestamp" : 57098,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1009
+  }
+}, {
+  "timestamp" : 57307,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1182
+  }
+}, {
+  "timestamp" : 57307,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2365
+  }
+}, {
+  "timestamp" : 57307,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1182
+  }
+}, {
+  "timestamp" : 57474,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.049095
+  }
+}, {
+  "timestamp" : 57474,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0981
+  }
+}, {
+  "timestamp" : 57474,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.049095
+  }
+}, {
+  "timestamp" : 57682,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 50.4021
+  }
+}, {
+  "timestamp" : 57682,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.043396
+  }
+}, {
+  "timestamp" : 57682,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0868
+  }
+}, {
+  "timestamp" : 57682,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.043396
+  }
+}, {
+  "timestamp" : 57891,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 78.006294
+  }
+}, {
+  "timestamp" : 57891,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 53.9769
+  }
+}, {
+  "timestamp" : 57891,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.088196
+  }
+}, {
+  "timestamp" : 57891,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1764
+  }
+}, {
+  "timestamp" : 57891,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.088196
+  }
+}, {
+  "timestamp" : 57891,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 56.2781
+  }
+}, {
+  "timestamp" : 58099,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 67.3191
+  }
+}, {
+  "timestamp" : 58099,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 59.6744
+  }
+}, {
+  "timestamp" : 58099,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0858
+  }
+}, {
+  "timestamp" : 58099,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1716
+  }
+}, {
+  "timestamp" : 58099,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0858
+  }
+}, {
+  "timestamp" : 58099,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 61.6907
+  }
+}, {
+  "timestamp" : 58308,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 85.3559
+  }
+}, {
+  "timestamp" : 58308,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 68.9331
+  }
+}, {
+  "timestamp" : 58308,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0709
+  }
+}, {
+  "timestamp" : 58308,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1418
+  }
+}, {
+  "timestamp" : 58308,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0709
+  }
+}, {
+  "timestamp" : 58308,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 70.486496
+  }
+}, {
+  "timestamp" : 58475,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 94.2073
+  }
+}, {
+  "timestamp" : 58475,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 68.943
+  }
+}, {
+  "timestamp" : 58475,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.082
+  }
+}, {
+  "timestamp" : 58475,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1639
+  }
+}, {
+  "timestamp" : 58475,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.082
+  }
+}, {
+  "timestamp" : 58475,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 70.495804
+  }
+}, {
+  "timestamp" : 58683,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 92.7289
+  }
+}, {
+  "timestamp" : 58683,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 64.123795
+  }
+}, {
+  "timestamp" : 58683,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1046
+  }
+}, {
+  "timestamp" : 58683,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.209206
+  }
+}, {
+  "timestamp" : 58683,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1046
+  }
+}, {
+  "timestamp" : 58683,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 65.9176
+  }
+}, {
+  "timestamp" : 58892,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 93.8714
+  }
+}, {
+  "timestamp" : 58892,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 68.4748
+  }
+}, {
+  "timestamp" : 58892,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0933
+  }
+}, {
+  "timestamp" : 58892,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1866
+  }
+}, {
+  "timestamp" : 58892,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0933
+  }
+}, {
+  "timestamp" : 58892,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 70.0511
+  }
+}, {
+  "timestamp" : 59100,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 89.175896
+  }
+}, {
+  "timestamp" : 59100,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 64.0253
+  }
+}, {
+  "timestamp" : 59100,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0901
+  }
+}, {
+  "timestamp" : 59100,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1802
+  }
+}, {
+  "timestamp" : 59100,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0901
+  }
+}, {
+  "timestamp" : 59100,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 65.8241
+  }
+}, {
+  "timestamp" : 59309,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 70.7618
+  }
+}, {
+  "timestamp" : 59309,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 52.0552
+  }
+}, {
+  "timestamp" : 59309,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.076004
+  }
+}, {
+  "timestamp" : 59309,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1521
+  }
+}, {
+  "timestamp" : 59309,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.076004
+  }
+}, {
+  "timestamp" : 59309,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 54.4524
+  }
+}, {
+  "timestamp" : 59476,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0626
+  }
+}, {
+  "timestamp" : 59476,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1252
+  }
+}, {
+  "timestamp" : 59476,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0626
+  }
+}, {
+  "timestamp" : 59684,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0422
+  }
+}, {
+  "timestamp" : 59684,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.084404
+  }
+}, {
+  "timestamp" : 59684,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0422
+  }
+}, {
+  "timestamp" : 59893,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.047
+  }
+}, {
+  "timestamp" : 59893,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.093895
+  }
+}, {
+  "timestamp" : 59893,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.047
+  }
+}, {
+  "timestamp" : 60101,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.031
+  }
+}, {
+  "timestamp" : 60101,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.062004
+  }
+}, {
+  "timestamp" : 60101,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.031
+  }
+}, {
+  "timestamp" : 60268,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 50.1229
+  }
+}, {
+  "timestamp" : 60268,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0264
+  }
+}, {
+  "timestamp" : 60268,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0529
+  }
+}, {
+  "timestamp" : 60268,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0264
+  }
+}, {
+  "timestamp" : 60477,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0603
+  }
+}, {
+  "timestamp" : 60477,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.120705
+  }
+}, {
+  "timestamp" : 60477,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0603
+  }
+}, {
+  "timestamp" : 60685,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0022
+  }
+}, {
+  "timestamp" : 60685,
+  "label" : {
+    "name" : "Kiss",
+    "confidence" : 54.3108
+  }
+}, {
+  "timestamp" : 60685,
+  "label" : {
+    "name" : "Kissing",
+    "confidence" : 54.3108
+  }
+}, {
+  "timestamp" : 60685,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0043
+  }
+}, {
+  "timestamp" : 60685,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0022
+  }
+}, {
+  "timestamp" : 60894,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0255
+  }
+}, {
+  "timestamp" : 60894,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.050896
+  }
+}, {
+  "timestamp" : 60894,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0255
+  }
+}, {
+  "timestamp" : 61102,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9996
+  }
+}, {
+  "timestamp" : 61102,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9993
+  }
+}, {
+  "timestamp" : 61102,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9996
+  }
+}, {
+  "timestamp" : 61269,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8906
+  }
+}, {
+  "timestamp" : 61269,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.7811
+  }
+}, {
+  "timestamp" : 61269,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8906
+  }
+}, {
+  "timestamp" : 61478,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8821
+  }
+}, {
+  "timestamp" : 61478,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.7642
+  }
+}, {
+  "timestamp" : 61478,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8821
+  }
+}, {
+  "timestamp" : 61686,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.916695
+  }
+}, {
+  "timestamp" : 61686,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.833405
+  }
+}, {
+  "timestamp" : 61686,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.916695
+  }
+}, {
+  "timestamp" : 61895,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8827
+  }
+}, {
+  "timestamp" : 61895,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.765396
+  }
+}, {
+  "timestamp" : 61895,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8827
+  }
+}, {
+  "timestamp" : 62103,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0685
+  }
+}, {
+  "timestamp" : 62103,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1371
+  }
+}, {
+  "timestamp" : 62103,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0685
+  }
+}, {
+  "timestamp" : 62270,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0606
+  }
+}, {
+  "timestamp" : 62270,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1212
+  }
+}, {
+  "timestamp" : 62270,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0606
+  }
+}, {
+  "timestamp" : 62479,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1007
+  }
+}, {
+  "timestamp" : 62479,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2014
+  }
+}, {
+  "timestamp" : 62479,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1007
+  }
+}, {
+  "timestamp" : 62687,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.029396
+  }
+}, {
+  "timestamp" : 62687,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0589
+  }
+}, {
+  "timestamp" : 62687,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.029396
+  }
+}, {
+  "timestamp" : 62896,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0525
+  }
+}, {
+  "timestamp" : 62896,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1049
+  }
+}, {
+  "timestamp" : 62896,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0525
+  }
+}, {
+  "timestamp" : 63104,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0823
+  }
+}, {
+  "timestamp" : 63104,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1645
+  }
+}, {
+  "timestamp" : 63104,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0823
+  }
+}, {
+  "timestamp" : 64898,
+  "label" : {
+    "name" : "Field",
+    "confidence" : 50.4659
+  }
+}, {
+  "timestamp" : 65106,
+  "label" : {
+    "name" : "Field",
+    "confidence" : 59.990902
+  }
+}, {
+  "timestamp" : 65315,
+  "label" : {
+    "name" : "Field",
+    "confidence" : 60.7104
+  }
+}, {
+  "timestamp" : 65523,
+  "label" : {
+    "name" : "Field",
+    "confidence" : 55.4407
+  }
+}, {
+  "timestamp" : 66524,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6053
+  }
+}, {
+  "timestamp" : 66524,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.2104
+  }
+}, {
+  "timestamp" : 66524,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6053
+  }
+}, {
+  "timestamp" : 66691,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8879
+  }
+}, {
+  "timestamp" : 66691,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.775696
+  }
+}, {
+  "timestamp" : 66691,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8879
+  }
+}, {
+  "timestamp" : 66900,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9032
+  }
+}, {
+  "timestamp" : 66900,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8065
+  }
+}, {
+  "timestamp" : 66900,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9032
+  }
+}, {
+  "timestamp" : 67108,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9466
+  }
+}, {
+  "timestamp" : 67108,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8932
+  }
+}, {
+  "timestamp" : 67108,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9466
+  }
+}, {
+  "timestamp" : 67317,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0012
+  }
+}, {
+  "timestamp" : 67317,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.002396
+  }
+}, {
+  "timestamp" : 67317,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0012
+  }
+}, {
+  "timestamp" : 67484,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9854
+  }
+}, {
+  "timestamp" : 67484,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9707
+  }
+}, {
+  "timestamp" : 67484,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9854
+  }
+}, {
+  "timestamp" : 67692,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0529
+  }
+}, {
+  "timestamp" : 67692,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1059
+  }
+}, {
+  "timestamp" : 67692,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0529
+  }
+}, {
+  "timestamp" : 67901,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9775
+  }
+}, {
+  "timestamp" : 67901,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9551
+  }
+}, {
+  "timestamp" : 67901,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9775
+  }
+}, {
+  "timestamp" : 68109,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0789
+  }
+}, {
+  "timestamp" : 68109,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1577
+  }
+}, {
+  "timestamp" : 68109,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0789
+  }
+}, {
+  "timestamp" : 68485,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 53.566498
+  }
+}, {
+  "timestamp" : 68485,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.376396
+  }
+}, {
+  "timestamp" : 68485,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.7526
+  }
+}, {
+  "timestamp" : 68485,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.376396
+  }
+}, {
+  "timestamp" : 68693,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 71.5891
+  }
+}, {
+  "timestamp" : 68902,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 87.0897
+  }
+}, {
+  "timestamp" : 69110,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 84.181
+  }
+}, {
+  "timestamp" : 69319,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 54.4307
+  }
+}, {
+  "timestamp" : 69486,
+  "label" : {
+    "name" : "Cloak",
+    "confidence" : 61.218704
+  }
+}, {
+  "timestamp" : 69486,
+  "label" : {
+    "name" : "Clothing",
+    "confidence" : 57.3406
+  }
+}, {
+  "timestamp" : 69694,
+  "label" : {
+    "name" : "Cloak",
+    "confidence" : 72.075806
+  }
+}, {
+  "timestamp" : 69694,
+  "label" : {
+    "name" : "Clothing",
+    "confidence" : 69.2834
+  }
+}, {
+  "timestamp" : 69903,
+  "label" : {
+    "name" : "Cloak",
+    "confidence" : 73.5495
+  }
+}, {
+  "timestamp" : 69903,
+  "label" : {
+    "name" : "Clothing",
+    "confidence" : 70.904396
+  }
+}, {
+  "timestamp" : 70111,
+  "label" : {
+    "name" : "Cloak",
+    "confidence" : 73.8091
+  }
+}, {
+  "timestamp" : 70111,
+  "label" : {
+    "name" : "Clothing",
+    "confidence" : 71.19
+  }
+}, {
+  "timestamp" : 70320,
+  "label" : {
+    "name" : "Cloak",
+    "confidence" : 59.220398
+  }
+}, {
+  "timestamp" : 70320,
+  "label" : {
+    "name" : "Clothing",
+    "confidence" : 55.142403
+  }
+}, {
+  "timestamp" : 70904,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 51.7503
+  }
+}, {
+  "timestamp" : 71112,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 63.9134
+  }
+}, {
+  "timestamp" : 71321,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 76.3167
+  }
+}, {
+  "timestamp" : 71488,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 83.5062
+  }
+}, {
+  "timestamp" : 71488,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 53.315197
+  }
+}, {
+  "timestamp" : 71696,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 87.9674
+  }
+}, {
+  "timestamp" : 71696,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 54.5594
+  }
+}, {
+  "timestamp" : 71905,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 85.1794
+  }
+}, {
+  "timestamp" : 71905,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 59.344204
+  }
+}, {
+  "timestamp" : 72113,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 87.0797
+  }
+}, {
+  "timestamp" : 72113,
+  "label" : {
+    "name" : "Fireplace",
+    "confidence" : 56.418003
+  }
+}, {
+  "timestamp" : 72113,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 59.007
+  }
+}, {
+  "timestamp" : 72113,
+  "label" : {
+    "name" : "Hearth",
+    "confidence" : 58.5971
+  }
+}, {
+  "timestamp" : 72322,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 79.2709
+  }
+}, {
+  "timestamp" : 72489,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 71.4709
+  }
+}, {
+  "timestamp" : 72489,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 52.3588
+  }
+}, {
+  "timestamp" : 72489,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 52.3588
+  }
+}, {
+  "timestamp" : 72697,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 62.1981
+  }
+}, {
+  "timestamp" : 72697,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.97
+  }
+}, {
+  "timestamp" : 72697,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9401
+  }
+}, {
+  "timestamp" : 72697,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.97
+  }
+}, {
+  "timestamp" : 72906,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 52.1305
+  }
+}, {
+  "timestamp" : 72906,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.956505
+  }
+}, {
+  "timestamp" : 72906,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9131
+  }
+}, {
+  "timestamp" : 72906,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.956505
+  }
+}, {
+  "timestamp" : 73114,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6283
+  }
+}, {
+  "timestamp" : 73114,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.2565
+  }
+}, {
+  "timestamp" : 73114,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6283
+  }
+}, {
+  "timestamp" : 75700,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 55.403297
+  }
+}, {
+  "timestamp" : 75909,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 55.7719
+  }
+}, {
+  "timestamp" : 76117,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 56.7123
+  }
+}, {
+  "timestamp" : 76284,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 55.031597
+  }
+}, {
+  "timestamp" : 76701,
+  "label" : {
+    "name" : "Sunlight",
+    "confidence" : 50.733696
+  }
+}, {
+  "timestamp" : 76910,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 50.997604
+  }
+}, {
+  "timestamp" : 76910,
+  "label" : {
+    "name" : "Sunlight",
+    "confidence" : 52.6788
+  }
+}, {
+  "timestamp" : 77118,
+  "label" : {
+    "name" : "Nature",
+    "confidence" : 50.7039
+  }
+}, {
+  "timestamp" : 77118,
+  "label" : {
+    "name" : "Sunlight",
+    "confidence" : 54.279297
+  }
+}, {
+  "timestamp" : 78912,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 50.8776
+  }
+}, {
+  "timestamp" : 78912,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 51.226597
+  }
+}, {
+  "timestamp" : 79120,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 61.770397
+  }
+}, {
+  "timestamp" : 79120,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 53.014397
+  }
+}, {
+  "timestamp" : 79287,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 67.9371
+  }
+}, {
+  "timestamp" : 79287,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 50.1428
+  }
+}, {
+  "timestamp" : 79496,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 70.053604
+  }
+}, {
+  "timestamp" : 79496,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 50.064404
+  }
+}, {
+  "timestamp" : 79704,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 59.3709
+  }
+}, {
+  "timestamp" : 79704,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 50.7171
+  }
+}, {
+  "timestamp" : 79913,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 54.127903
+  }
+}, {
+  "timestamp" : 80914,
+  "label" : {
+    "name" : "Figurine",
+    "confidence" : 52.4278
+  }
+}, {
+  "timestamp" : 81122,
+  "label" : {
+    "name" : "Figurine",
+    "confidence" : 62.0455
+  }
+}, {
+  "timestamp" : 81331,
+  "label" : {
+    "name" : "Figurine",
+    "confidence" : 58.0115
+  }
+}, {
+  "timestamp" : 81331,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.0428
+  }
+}, {
+  "timestamp" : 81331,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.085396
+  }
+}, {
+  "timestamp" : 81331,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.0428
+  }
+}, {
+  "timestamp" : 81539,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7153
+  }
+}, {
+  "timestamp" : 81539,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.430595
+  }
+}, {
+  "timestamp" : 81539,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7153
+  }
+}, {
+  "timestamp" : 81706,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9586
+  }
+}, {
+  "timestamp" : 81706,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9171
+  }
+}, {
+  "timestamp" : 81706,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9586
+  }
+}, {
+  "timestamp" : 81915,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 54.0253
+  }
+}, {
+  "timestamp" : 81915,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.011604
+  }
+}, {
+  "timestamp" : 81915,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.023
+  }
+}, {
+  "timestamp" : 81915,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.011604
+  }
+}, {
+  "timestamp" : 82123,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 83.2142
+  }
+}, {
+  "timestamp" : 82123,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6673
+  }
+}, {
+  "timestamp" : 82123,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.334496
+  }
+}, {
+  "timestamp" : 82123,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6673
+  }
+}, {
+  "timestamp" : 82332,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 92.5106
+  }
+}, {
+  "timestamp" : 82332,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7288
+  }
+}, {
+  "timestamp" : 82332,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.457596
+  }
+}, {
+  "timestamp" : 82332,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7288
+  }
+}, {
+  "timestamp" : 82540,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 89.7441
+  }
+}, {
+  "timestamp" : 82540,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.841705
+  }
+}, {
+  "timestamp" : 82540,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.6834
+  }
+}, {
+  "timestamp" : 82540,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.841705
+  }
+}, {
+  "timestamp" : 82707,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 93.1625
+  }
+}, {
+  "timestamp" : 82707,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.758606
+  }
+}, {
+  "timestamp" : 82707,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.5172
+  }
+}, {
+  "timestamp" : 82707,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.758606
+  }
+}, {
+  "timestamp" : 82916,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 95.1979
+  }
+}, {
+  "timestamp" : 82916,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7094
+  }
+}, {
+  "timestamp" : 82916,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.4188
+  }
+}, {
+  "timestamp" : 82916,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7094
+  }
+}, {
+  "timestamp" : 83124,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 92.722305
+  }
+}, {
+  "timestamp" : 83124,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.4806
+  }
+}, {
+  "timestamp" : 83124,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.9611
+  }
+}, {
+  "timestamp" : 83124,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.4806
+  }
+}, {
+  "timestamp" : 83333,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 96.071396
+  }
+}, {
+  "timestamp" : 83333,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.7717
+  }
+}, {
+  "timestamp" : 83333,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.5432
+  }
+}, {
+  "timestamp" : 83333,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.7717
+  }
+}, {
+  "timestamp" : 83500,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 97.6914
+  }
+}, {
+  "timestamp" : 83500,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.2517
+  }
+}, {
+  "timestamp" : 83500,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.5034
+  }
+}, {
+  "timestamp" : 83500,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.2517
+  }
+}, {
+  "timestamp" : 83708,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 91.4733
+  }
+}, {
+  "timestamp" : 83708,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.9862
+  }
+}, {
+  "timestamp" : 83708,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.9722
+  }
+}, {
+  "timestamp" : 83708,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.9862
+  }
+}, {
+  "timestamp" : 83917,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 73.0021
+  }
+}, {
+  "timestamp" : 83917,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6148
+  }
+}, {
+  "timestamp" : 83917,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.2296
+  }
+}, {
+  "timestamp" : 83917,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6148
+  }
+}, {
+  "timestamp" : 84125,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 51.0962
+  }
+}, {
+  "timestamp" : 84334,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.549995
+  }
+}, {
+  "timestamp" : 84334,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.1
+  }
+}, {
+  "timestamp" : 84334,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.549995
+  }
+}, {
+  "timestamp" : 84501,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.3313
+  }
+}, {
+  "timestamp" : 84501,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.6625
+  }
+}, {
+  "timestamp" : 84501,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.3313
+  }
+}, {
+  "timestamp" : 84709,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9582
+  }
+}, {
+  "timestamp" : 84709,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9163
+  }
+}, {
+  "timestamp" : 84709,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9582
+  }
+}, {
+  "timestamp" : 84918,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 54.212303
+  }
+}, {
+  "timestamp" : 84918,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8491
+  }
+}, {
+  "timestamp" : 84918,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.6981
+  }
+}, {
+  "timestamp" : 84918,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8491
+  }
+}, {
+  "timestamp" : 84918,
+  "label" : {
+    "name" : "Tunnel",
+    "confidence" : 55.130302
+  }
+}, {
+  "timestamp" : 85126,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 57.845497
+  }
+}, {
+  "timestamp" : 85126,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6505
+  }
+}, {
+  "timestamp" : 85126,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.301
+  }
+}, {
+  "timestamp" : 85126,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6505
+  }
+}, {
+  "timestamp" : 85126,
+  "label" : {
+    "name" : "Tunnel",
+    "confidence" : 72.5278
+  }
+}, {
+  "timestamp" : 85335,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 56.462597
+  }
+}, {
+  "timestamp" : 85335,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.567406
+  }
+}, {
+  "timestamp" : 85335,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.134796
+  }
+}, {
+  "timestamp" : 85335,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.567406
+  }
+}, {
+  "timestamp" : 85335,
+  "label" : {
+    "name" : "Tunnel",
+    "confidence" : 73.9529
+  }
+}, {
+  "timestamp" : 85502,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 54.6584
+  }
+}, {
+  "timestamp" : 85502,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 51.6877
+  }
+}, {
+  "timestamp" : 85502,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8881
+  }
+}, {
+  "timestamp" : 85502,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.7761
+  }
+}, {
+  "timestamp" : 85502,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8881
+  }
+}, {
+  "timestamp" : 85502,
+  "label" : {
+    "name" : "Tunnel",
+    "confidence" : 74.4884
+  }
+}, {
+  "timestamp" : 85710,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 65.7126
+  }
+}, {
+  "timestamp" : 85710,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 55.1791
+  }
+}, {
+  "timestamp" : 85710,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.2328
+  }
+}, {
+  "timestamp" : 85710,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.4654
+  }
+}, {
+  "timestamp" : 85710,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.2328
+  }
+}, {
+  "timestamp" : 85710,
+  "label" : {
+    "name" : "Tunnel",
+    "confidence" : 54.8103
+  }
+}, {
+  "timestamp" : 85919,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 74.4787
+  }
+}, {
+  "timestamp" : 85919,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 58.209003
+  }
+}, {
+  "timestamp" : 85919,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.4401
+  }
+}, {
+  "timestamp" : 85919,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.880104
+  }
+}, {
+  "timestamp" : 85919,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.4401
+  }
+}, {
+  "timestamp" : 86127,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 80.5156
+  }
+}, {
+  "timestamp" : 86127,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 64.8645
+  }
+}, {
+  "timestamp" : 86127,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8146
+  }
+}, {
+  "timestamp" : 86127,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.6292
+  }
+}, {
+  "timestamp" : 86127,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8146
+  }
+}, {
+  "timestamp" : 86336,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 79.406296
+  }
+}, {
+  "timestamp" : 86336,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 60.804897
+  }
+}, {
+  "timestamp" : 86336,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.272
+  }
+}, {
+  "timestamp" : 86336,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.5439
+  }
+}, {
+  "timestamp" : 86336,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.272
+  }
+}, {
+  "timestamp" : 86503,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 77.1859
+  }
+}, {
+  "timestamp" : 86503,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 59.1591
+  }
+}, {
+  "timestamp" : 86503,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7857
+  }
+}, {
+  "timestamp" : 86503,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.571495
+  }
+}, {
+  "timestamp" : 86503,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7857
+  }
+}, {
+  "timestamp" : 86711,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 68.382195
+  }
+}, {
+  "timestamp" : 86711,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 58.446903
+  }
+}, {
+  "timestamp" : 86711,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.739
+  }
+}, {
+  "timestamp" : 86711,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.4779
+  }
+}, {
+  "timestamp" : 86711,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.739
+  }
+}, {
+  "timestamp" : 86920,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 59.0795
+  }
+}, {
+  "timestamp" : 86920,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 56.5981
+  }
+}, {
+  "timestamp" : 86920,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.3927
+  }
+}, {
+  "timestamp" : 86920,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.7852
+  }
+}, {
+  "timestamp" : 86920,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.3927
+  }
+}, {
+  "timestamp" : 87128,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 57.806404
+  }
+}, {
+  "timestamp" : 87128,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8401
+  }
+}, {
+  "timestamp" : 87128,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.6801
+  }
+}, {
+  "timestamp" : 87128,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8401
+  }
+}, {
+  "timestamp" : 87337,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 58.2425
+  }
+}, {
+  "timestamp" : 87337,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.5075
+  }
+}, {
+  "timestamp" : 87337,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.0148
+  }
+}, {
+  "timestamp" : 87337,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.5075
+  }
+}, {
+  "timestamp" : 87504,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 58.601997
+  }
+}, {
+  "timestamp" : 87712,
+  "label" : {
+    "name" : "Head",
+    "confidence" : 51.1361
+  }
+}, {
+  "timestamp" : 88505,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.1142
+  }
+}, {
+  "timestamp" : 88505,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2285
+  }
+}, {
+  "timestamp" : 88505,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.1142
+  }
+}, {
+  "timestamp" : 88713,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0802
+  }
+}, {
+  "timestamp" : 88713,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1604
+  }
+}, {
+  "timestamp" : 88713,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0802
+  }
+}, {
+  "timestamp" : 88922,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0408
+  }
+}, {
+  "timestamp" : 88922,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0815
+  }
+}, {
+  "timestamp" : 88922,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0408
+  }
+}, {
+  "timestamp" : 89130,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9339
+  }
+}, {
+  "timestamp" : 89130,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8678
+  }
+}, {
+  "timestamp" : 89130,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9339
+  }
+}, {
+  "timestamp" : 89339,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.03561
+  }
+}, {
+  "timestamp" : 89339,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0711
+  }
+}, {
+  "timestamp" : 89339,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.03561
+  }
+}, {
+  "timestamp" : 89506,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.817
+  }
+}, {
+  "timestamp" : 89506,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.633896
+  }
+}, {
+  "timestamp" : 89506,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.817
+  }
+}, {
+  "timestamp" : 89714,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9068
+  }
+}, {
+  "timestamp" : 89714,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8135
+  }
+}, {
+  "timestamp" : 89714,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9068
+  }
+}, {
+  "timestamp" : 89923,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6465
+  }
+}, {
+  "timestamp" : 89923,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.293
+  }
+}, {
+  "timestamp" : 89923,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6465
+  }
+}, {
+  "timestamp" : 90131,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.4044
+  }
+}, {
+  "timestamp" : 90131,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.8087
+  }
+}, {
+  "timestamp" : 90131,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.4044
+  }
+}, {
+  "timestamp" : 90924,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.763504
+  }
+}, {
+  "timestamp" : 90924,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.5269
+  }
+}, {
+  "timestamp" : 90924,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.763504
+  }
+}, {
+  "timestamp" : 91132,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 51.4365
+  }
+}, {
+  "timestamp" : 91132,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 51.4365
+  }
+}, {
+  "timestamp" : 92300,
+  "label" : {
+    "name" : "Bonfire",
+    "confidence" : 67.6563
+  }
+}, {
+  "timestamp" : 92300,
+  "label" : {
+    "name" : "Campfire",
+    "confidence" : 67.6563
+  }
+}, {
+  "timestamp" : 92300,
+  "label" : {
+    "name" : "Camping",
+    "confidence" : 67.6563
+  }
+}, {
+  "timestamp" : 92300,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 67.6563
+  }
+}, {
+  "timestamp" : 92300,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 67.6563
+  }
+}, {
+  "timestamp" : 92300,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.5427
+  }
+}, {
+  "timestamp" : 92300,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.0853
+  }
+}, {
+  "timestamp" : 92300,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.5427
+  }
+}, {
+  "timestamp" : 92509,
+  "label" : {
+    "name" : "Bonfire",
+    "confidence" : 68.6119
+  }
+}, {
+  "timestamp" : 92509,
+  "label" : {
+    "name" : "Campfire",
+    "confidence" : 68.6119
+  }
+}, {
+  "timestamp" : 92509,
+  "label" : {
+    "name" : "Camping",
+    "confidence" : 68.6119
+  }
+}, {
+  "timestamp" : 92509,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 68.6119
+  }
+}, {
+  "timestamp" : 92509,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 68.6119
+  }
+}, {
+  "timestamp" : 92509,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.2114
+  }
+}, {
+  "timestamp" : 92509,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.4226
+  }
+}, {
+  "timestamp" : 92509,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.2114
+  }
+}, {
+  "timestamp" : 92717,
+  "label" : {
+    "name" : "Bonfire",
+    "confidence" : 69.405594
+  }
+}, {
+  "timestamp" : 92717,
+  "label" : {
+    "name" : "Campfire",
+    "confidence" : 69.405594
+  }
+}, {
+  "timestamp" : 92717,
+  "label" : {
+    "name" : "Camping",
+    "confidence" : 69.405594
+  }
+}, {
+  "timestamp" : 92717,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 69.405594
+  }
+}, {
+  "timestamp" : 92717,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 69.405594
+  }
+}, {
+  "timestamp" : 92717,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.0326
+  }
+}, {
+  "timestamp" : 92717,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.065
+  }
+}, {
+  "timestamp" : 92717,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.0326
+  }
+}, {
+  "timestamp" : 92926,
+  "label" : {
+    "name" : "Bonfire",
+    "confidence" : 61.9949
+  }
+}, {
+  "timestamp" : 92926,
+  "label" : {
+    "name" : "Campfire",
+    "confidence" : 61.9949
+  }
+}, {
+  "timestamp" : 92926,
+  "label" : {
+    "name" : "Camping",
+    "confidence" : 61.9949
+  }
+}, {
+  "timestamp" : 92926,
+  "label" : {
+    "name" : "Fire",
+    "confidence" : 61.9949
+  }
+}, {
+  "timestamp" : 92926,
+  "label" : {
+    "name" : "Flame",
+    "confidence" : 61.9949
+  }
+}, {
+  "timestamp" : 93301,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.889206
+  }
+}, {
+  "timestamp" : 93301,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.7782
+  }
+}, {
+  "timestamp" : 93301,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.889206
+  }
+}, {
+  "timestamp" : 93510,
+  "label" : {
+    "name" : "Sunlight",
+    "confidence" : 55.023003
+  }
+}, {
+  "timestamp" : 93718,
+  "label" : {
+    "name" : "Sunlight",
+    "confidence" : 74.307
+  }
+}, {
+  "timestamp" : 93927,
+  "label" : {
+    "name" : "Sunlight",
+    "confidence" : 75.3251
+  }
+}, {
+  "timestamp" : 94135,
+  "label" : {
+    "name" : "Sunlight",
+    "confidence" : 74.529
+  }
+}, {
+  "timestamp" : 94302,
+  "label" : {
+    "name" : "Sunlight",
+    "confidence" : 74.025
+  }
+}, {
+  "timestamp" : 94511,
+  "label" : {
+    "name" : "Sunlight",
+    "confidence" : 57.4614
+  }
+}, {
+  "timestamp" : 94719,
+  "label" : {
+    "name" : "Airplane",
+    "confidence" : 51.4975
+  }
+}, {
+  "timestamp" : 94719,
+  "label" : {
+    "name" : "Jet",
+    "confidence" : 51.4975
+  }
+}, {
+  "timestamp" : 94928,
+  "label" : {
+    "name" : "Airplane",
+    "confidence" : 53.373898
+  }
+}, {
+  "timestamp" : 94928,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.5591
+  }
+}, {
+  "timestamp" : 94928,
+  "label" : {
+    "name" : "Jet",
+    "confidence" : 53.373898
+  }
+}, {
+  "timestamp" : 94928,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.118095
+  }
+}, {
+  "timestamp" : 94928,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.5591
+  }
+}, {
+  "timestamp" : 95011,
+  "label" : {
+    "name" : "Silhouette",
+    "confidence" : 52.1558
+  }
+}, {
+  "timestamp" : 96012,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 58.205597
+  }
+}, {
+  "timestamp" : 96012,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.909096
+  }
+}, {
+  "timestamp" : 96012,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8181
+  }
+}, {
+  "timestamp" : 96012,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.909096
+  }
+}, {
+  "timestamp" : 96179,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 74.2133
+  }
+}, {
+  "timestamp" : 96179,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 67.7666
+  }
+}, {
+  "timestamp" : 96179,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 67.7666
+  }
+}, {
+  "timestamp" : 96179,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7713
+  }
+}, {
+  "timestamp" : 96179,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.5426
+  }
+}, {
+  "timestamp" : 96179,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7713
+  }
+}, {
+  "timestamp" : 96387,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 81.2263
+  }
+}, {
+  "timestamp" : 96387,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 76.5329
+  }
+}, {
+  "timestamp" : 96387,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 76.5329
+  }
+}, {
+  "timestamp" : 96387,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8439
+  }
+}, {
+  "timestamp" : 96387,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.6878
+  }
+}, {
+  "timestamp" : 96387,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8439
+  }
+}, {
+  "timestamp" : 96387,
+  "label" : {
+    "name" : "Woman",
+    "confidence" : 57.332497
+  }
+}, {
+  "timestamp" : 96596,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 70.9543
+  }
+}, {
+  "timestamp" : 96596,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 63.692898
+  }
+}, {
+  "timestamp" : 96596,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 63.692898
+  }
+}, {
+  "timestamp" : 96596,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7464
+  }
+}, {
+  "timestamp" : 96596,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.492805
+  }
+}, {
+  "timestamp" : 96596,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7464
+  }
+}, {
+  "timestamp" : 96805,
+  "label" : {
+    "name" : "Blonde",
+    "confidence" : 53.684998
+  }
+}, {
+  "timestamp" : 96805,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 55.634396
+  }
+}, {
+  "timestamp" : 96805,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8635
+  }
+}, {
+  "timestamp" : 96805,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.727104
+  }
+}, {
+  "timestamp" : 96805,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8635
+  }
+}, {
+  "timestamp" : 97013,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 51.9423
+  }
+}, {
+  "timestamp" : 97013,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 51.9423
+  }
+}, {
+  "timestamp" : 97013,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 51.9423
+  }
+}, {
+  "timestamp" : 98014,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9115
+  }
+}, {
+  "timestamp" : 98014,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8229
+  }
+}, {
+  "timestamp" : 98014,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9115
+  }
+}, {
+  "timestamp" : 98181,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 50.0499
+  }
+}, {
+  "timestamp" : 98181,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.866
+  }
+}, {
+  "timestamp" : 98181,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.732
+  }
+}, {
+  "timestamp" : 98181,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.866
+  }
+}, {
+  "timestamp" : 98181,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 52.5474
+  }
+}, {
+  "timestamp" : 98389,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8119
+  }
+}, {
+  "timestamp" : 98389,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.6237
+  }
+}, {
+  "timestamp" : 98389,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8119
+  }
+}, {
+  "timestamp" : 98389,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 51.557602
+  }
+}, {
+  "timestamp" : 98598,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.816
+  }
+}, {
+  "timestamp" : 98598,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.632095
+  }
+}, {
+  "timestamp" : 98598,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.816
+  }
+}, {
+  "timestamp" : 99182,
+  "label" : {
+    "name" : "Field",
+    "confidence" : 50.5067
+  }
+}, {
+  "timestamp" : 100809,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.1637
+  }
+}, {
+  "timestamp" : 100809,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.3273
+  }
+}, {
+  "timestamp" : 100809,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.1637
+  }
+}, {
+  "timestamp" : 101601,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.55579
+  }
+}, {
+  "timestamp" : 101601,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.111496
+  }
+}, {
+  "timestamp" : 101601,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.55579
+  }
+}, {
+  "timestamp" : 102018,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 56.5254
+  }
+}, {
+  "timestamp" : 102018,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.962
+  }
+}, {
+  "timestamp" : 102018,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.924
+  }
+}, {
+  "timestamp" : 102018,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.962
+  }
+}, {
+  "timestamp" : 102185,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 55.9996
+  }
+}, {
+  "timestamp" : 102185,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 56.703003
+  }
+}, {
+  "timestamp" : 102185,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9936
+  }
+}, {
+  "timestamp" : 102185,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9872
+  }
+}, {
+  "timestamp" : 102185,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9936
+  }
+}, {
+  "timestamp" : 102393,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 61.3824
+  }
+}, {
+  "timestamp" : 102393,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 59.433002
+  }
+}, {
+  "timestamp" : 102393,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.586395
+  }
+}, {
+  "timestamp" : 102393,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.1727
+  }
+}, {
+  "timestamp" : 102393,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.586395
+  }
+}, {
+  "timestamp" : 102602,
+  "label" : {
+    "name" : "Armor",
+    "confidence" : 52.627403
+  }
+}, {
+  "timestamp" : 102602,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 58.0329
+  }
+}, {
+  "timestamp" : 102602,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7469
+  }
+}, {
+  "timestamp" : 102602,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.4938
+  }
+}, {
+  "timestamp" : 102602,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7469
+  }
+}, {
+  "timestamp" : 102811,
+  "label" : {
+    "name" : "Bust",
+    "confidence" : 56.9263
+  }
+}, {
+  "timestamp" : 102811,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6351
+  }
+}, {
+  "timestamp" : 102811,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.2702
+  }
+}, {
+  "timestamp" : 102811,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6351
+  }
+}, {
+  "timestamp" : 102977,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8714
+  }
+}, {
+  "timestamp" : 102977,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.742805
+  }
+}, {
+  "timestamp" : 102977,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8714
+  }
+}, {
+  "timestamp" : 103978,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 97.9289
+  }
+}, {
+  "timestamp" : 103978,
+  "label" : {
+    "name" : "People",
+    "confidence" : 95.857605
+  }
+}, {
+  "timestamp" : 103978,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 97.9289
+  }
+}, {
+  "timestamp" : 104187,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.310104
+  }
+}, {
+  "timestamp" : 104187,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.6201
+  }
+}, {
+  "timestamp" : 104187,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.310104
+  }
+}, {
+  "timestamp" : 104604,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.1612
+  }
+}, {
+  "timestamp" : 104604,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.322296
+  }
+}, {
+  "timestamp" : 104604,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.1612
+  }
+}, {
+  "timestamp" : 104813,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.4976
+  }
+}, {
+  "timestamp" : 104813,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.995094
+  }
+}, {
+  "timestamp" : 104813,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.4976
+  }
+}, {
+  "timestamp" : 104979,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9452
+  }
+}, {
+  "timestamp" : 104979,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8905
+  }
+}, {
+  "timestamp" : 104979,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9452
+  }
+}, {
+  "timestamp" : 105188,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0969
+  }
+}, {
+  "timestamp" : 105188,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1938
+  }
+}, {
+  "timestamp" : 105188,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0969
+  }
+}, {
+  "timestamp" : 105396,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0248
+  }
+}, {
+  "timestamp" : 105396,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0495
+  }
+}, {
+  "timestamp" : 105396,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0248
+  }
+}, {
+  "timestamp" : 105605,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0996
+  }
+}, {
+  "timestamp" : 105605,
+  "label" : {
+    "name" : "Laughing",
+    "confidence" : 50.314598
+  }
+}, {
+  "timestamp" : 105605,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1993
+  }
+}, {
+  "timestamp" : 105605,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0996
+  }
+}, {
+  "timestamp" : 105814,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 50.6055
+  }
+}, {
+  "timestamp" : 105814,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 50.6055
+  }
+}, {
+  "timestamp" : 105814,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.986
+  }
+}, {
+  "timestamp" : 105814,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 50.6055
+  }
+}, {
+  "timestamp" : 105814,
+  "label" : {
+    "name" : "Laughing",
+    "confidence" : 54.617603
+  }
+}, {
+  "timestamp" : 105814,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.972
+  }
+}, {
+  "timestamp" : 105814,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.986
+  }
+}, {
+  "timestamp" : 105980,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 50.5902
+  }
+}, {
+  "timestamp" : 105980,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 50.5902
+  }
+}, {
+  "timestamp" : 105980,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8816
+  }
+}, {
+  "timestamp" : 105980,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 50.5902
+  }
+}, {
+  "timestamp" : 105980,
+  "label" : {
+    "name" : "Laughing",
+    "confidence" : 54.8904
+  }
+}, {
+  "timestamp" : 105980,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.7631
+  }
+}, {
+  "timestamp" : 105980,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8816
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "Baby",
+    "confidence" : 50.521397
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "Child",
+    "confidence" : 50.521397
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "Gemstone",
+    "confidence" : 55.807297
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0028
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "Jewelry",
+    "confidence" : 55.807297
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "Kid",
+    "confidence" : 50.521397
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "Laughing",
+    "confidence" : 53.706802
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0056
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0028
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "Photographer",
+    "confidence" : 57.1733
+  }
+}, {
+  "timestamp" : 106189,
+  "label" : {
+    "name" : "Sapphire",
+    "confidence" : 55.807297
+  }
+}, {
+  "timestamp" : 106397,
+  "label" : {
+    "name" : "Gemstone",
+    "confidence" : 66.7979
+  }
+}, {
+  "timestamp" : 106397,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8185
+  }
+}, {
+  "timestamp" : 106397,
+  "label" : {
+    "name" : "Jewelry",
+    "confidence" : 66.7979
+  }
+}, {
+  "timestamp" : 106397,
+  "label" : {
+    "name" : "Laughing",
+    "confidence" : 50.518696
+  }
+}, {
+  "timestamp" : 106397,
+  "label" : {
+    "name" : "Ornament",
+    "confidence" : 61.817505
+  }
+}, {
+  "timestamp" : 106397,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.637
+  }
+}, {
+  "timestamp" : 106397,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8185
+  }
+}, {
+  "timestamp" : 106397,
+  "label" : {
+    "name" : "Photographer",
+    "confidence" : 53.723
+  }
+}, {
+  "timestamp" : 106397,
+  "label" : {
+    "name" : "Sapphire",
+    "confidence" : 66.7979
+  }
+}, {
+  "timestamp" : 106606,
+  "label" : {
+    "name" : "Gemstone",
+    "confidence" : 67.5709
+  }
+}, {
+  "timestamp" : 106606,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9627
+  }
+}, {
+  "timestamp" : 106606,
+  "label" : {
+    "name" : "Jewelry",
+    "confidence" : 67.5709
+  }
+}, {
+  "timestamp" : 106606,
+  "label" : {
+    "name" : "Ornament",
+    "confidence" : 62.7065
+  }
+}, {
+  "timestamp" : 106606,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9255
+  }
+}, {
+  "timestamp" : 106606,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9627
+  }
+}, {
+  "timestamp" : 106606,
+  "label" : {
+    "name" : "Sapphire",
+    "confidence" : 67.5709
+  }
+}, {
+  "timestamp" : 106815,
+  "label" : {
+    "name" : "Gemstone",
+    "confidence" : 66.7323
+  }
+}, {
+  "timestamp" : 106815,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.958
+  }
+}, {
+  "timestamp" : 106815,
+  "label" : {
+    "name" : "Jewelry",
+    "confidence" : 66.7323
+  }
+}, {
+  "timestamp" : 106815,
+  "label" : {
+    "name" : "Ornament",
+    "confidence" : 61.742096
+  }
+}, {
+  "timestamp" : 106815,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9159
+  }
+}, {
+  "timestamp" : 106815,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.958
+  }
+}, {
+  "timestamp" : 106815,
+  "label" : {
+    "name" : "Sapphire",
+    "confidence" : 66.7323
+  }
+}, {
+  "timestamp" : 106981,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9829
+  }
+}, {
+  "timestamp" : 106981,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9657
+  }
+}, {
+  "timestamp" : 106981,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9829
+  }
+}, {
+  "timestamp" : 107190,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 55.176003
+  }
+}, {
+  "timestamp" : 107190,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9322
+  }
+}, {
+  "timestamp" : 107190,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8643
+  }
+}, {
+  "timestamp" : 107190,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9322
+  }
+}, {
+  "timestamp" : 107190,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 57.417202
+  }
+}, {
+  "timestamp" : 107398,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 70.7139
+  }
+}, {
+  "timestamp" : 107398,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.925
+  }
+}, {
+  "timestamp" : 107398,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.850105
+  }
+}, {
+  "timestamp" : 107398,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.925
+  }
+}, {
+  "timestamp" : 107398,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 72.1782
+  }
+}, {
+  "timestamp" : 107607,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 78.0398
+  }
+}, {
+  "timestamp" : 107607,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.966995
+  }
+}, {
+  "timestamp" : 107607,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.934
+  }
+}, {
+  "timestamp" : 107607,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.966995
+  }
+}, {
+  "timestamp" : 107607,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 79.1378
+  }
+}, {
+  "timestamp" : 107816,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 83.2509
+  }
+}, {
+  "timestamp" : 107816,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0154
+  }
+}, {
+  "timestamp" : 107816,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0307
+  }
+}, {
+  "timestamp" : 107816,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0154
+  }
+}, {
+  "timestamp" : 107816,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 84.0883
+  }
+}, {
+  "timestamp" : 107982,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 75.5674
+  }
+}, {
+  "timestamp" : 107982,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9933
+  }
+}, {
+  "timestamp" : 107982,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.9866
+  }
+}, {
+  "timestamp" : 107982,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9933
+  }
+}, {
+  "timestamp" : 107982,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 76.7891
+  }
+}, {
+  "timestamp" : 108191,
+  "label" : {
+    "name" : "Art",
+    "confidence" : 65.2256
+  }
+}, {
+  "timestamp" : 108191,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8833
+  }
+}, {
+  "timestamp" : 108191,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.7665
+  }
+}, {
+  "timestamp" : 108191,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8833
+  }
+}, {
+  "timestamp" : 108191,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 66.9643
+  }
+}, {
+  "timestamp" : 108399,
+  "label" : {
+    "name" : "Ear",
+    "confidence" : 65.6307
+  }
+}, {
+  "timestamp" : 108399,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.066696
+  }
+}, {
+  "timestamp" : 108399,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1335
+  }
+}, {
+  "timestamp" : 108399,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.066696
+  }
+}, {
+  "timestamp" : 108399,
+  "label" : {
+    "name" : "Sculpture",
+    "confidence" : 51.3121
+  }
+}, {
+  "timestamp" : 108608,
+  "label" : {
+    "name" : "Beard",
+    "confidence" : 73.8939
+  }
+}, {
+  "timestamp" : 108608,
+  "label" : {
+    "name" : "Ear",
+    "confidence" : 90.6941
+  }
+}, {
+  "timestamp" : 108608,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9201
+  }
+}, {
+  "timestamp" : 108608,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8402
+  }
+}, {
+  "timestamp" : 108608,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9201
+  }
+}, {
+  "timestamp" : 108817,
+  "label" : {
+    "name" : "Beard",
+    "confidence" : 87.2173
+  }
+}, {
+  "timestamp" : 108817,
+  "label" : {
+    "name" : "Ear",
+    "confidence" : 93.844696
+  }
+}, {
+  "timestamp" : 108817,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0659
+  }
+}, {
+  "timestamp" : 108817,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1318
+  }
+}, {
+  "timestamp" : 108817,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0659
+  }
+}, {
+  "timestamp" : 108983,
+  "label" : {
+    "name" : "Beard",
+    "confidence" : 86.639
+  }
+}, {
+  "timestamp" : 108983,
+  "label" : {
+    "name" : "Ear",
+    "confidence" : 86.2446
+  }
+}, {
+  "timestamp" : 108983,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0623
+  }
+}, {
+  "timestamp" : 108983,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1247
+  }
+}, {
+  "timestamp" : 108983,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0623
+  }
+}, {
+  "timestamp" : 109192,
+  "label" : {
+    "name" : "Beard",
+    "confidence" : 80.1691
+  }
+}, {
+  "timestamp" : 109192,
+  "label" : {
+    "name" : "Ear",
+    "confidence" : 75.664505
+  }
+}, {
+  "timestamp" : 109192,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.023994
+  }
+}, {
+  "timestamp" : 109192,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0479
+  }
+}, {
+  "timestamp" : 109192,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.023994
+  }
+}, {
+  "timestamp" : 109400,
+  "label" : {
+    "name" : "Beard",
+    "confidence" : 83.3589
+  }
+}, {
+  "timestamp" : 109400,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9207
+  }
+}, {
+  "timestamp" : 109400,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8413
+  }
+}, {
+  "timestamp" : 109400,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9207
+  }
+}, {
+  "timestamp" : 109609,
+  "label" : {
+    "name" : "Beard",
+    "confidence" : 77.1546
+  }
+}, {
+  "timestamp" : 109609,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.789604
+  }
+}, {
+  "timestamp" : 109609,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.5791
+  }
+}, {
+  "timestamp" : 109609,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.789604
+  }
+}, {
+  "timestamp" : 109818,
+  "label" : {
+    "name" : "Beard",
+    "confidence" : 77.33659
+  }
+}, {
+  "timestamp" : 109818,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.879
+  }
+}, {
+  "timestamp" : 109818,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.758
+  }
+}, {
+  "timestamp" : 109818,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.879
+  }
+}, {
+  "timestamp" : 111194,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 51.305096
+  }
+}, {
+  "timestamp" : 111194,
+  "label" : {
+    "name" : "Moon",
+    "confidence" : 61.3339
+  }
+}, {
+  "timestamp" : 111194,
+  "label" : {
+    "name" : "Night",
+    "confidence" : 61.3339
+  }
+}, {
+  "timestamp" : 111402,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 54.9196
+  }
+}, {
+  "timestamp" : 111402,
+  "label" : {
+    "name" : "Moon",
+    "confidence" : 59.817802
+  }
+}, {
+  "timestamp" : 111402,
+  "label" : {
+    "name" : "Night",
+    "confidence" : 59.817802
+  }
+}, {
+  "timestamp" : 111611,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 56.7802
+  }
+}, {
+  "timestamp" : 111611,
+  "label" : {
+    "name" : "Moon",
+    "confidence" : 51.4512
+  }
+}, {
+  "timestamp" : 111611,
+  "label" : {
+    "name" : "Night",
+    "confidence" : 51.4512
+  }
+}, {
+  "timestamp" : 111820,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 54.9641
+  }
+}, {
+  "timestamp" : 112028,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 55.3485
+  }
+}, {
+  "timestamp" : 112195,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 51.365204
+  }
+}, {
+  "timestamp" : 112612,
+  "label" : {
+    "name" : "Triangle",
+    "confidence" : 60.2476
+  }
+}, {
+  "timestamp" : 112821,
+  "label" : {
+    "name" : "Triangle",
+    "confidence" : 71.9817
+  }
+}, {
+  "timestamp" : 113029,
+  "label" : {
+    "name" : "Triangle",
+    "confidence" : 68.349495
+  }
+}, {
+  "timestamp" : 113196,
+  "label" : {
+    "name" : "Triangle",
+    "confidence" : 65.5449
+  }
+}, {
+  "timestamp" : 113404,
+  "label" : {
+    "name" : "Triangle",
+    "confidence" : 62.5412
+  }
+}, {
+  "timestamp" : 113613,
+  "label" : {
+    "name" : "Triangle",
+    "confidence" : 53.299896
+  }
+}, {
+  "timestamp" : 114823,
+  "label" : {
+    "name" : "Porthole",
+    "confidence" : 53.0788
+  }
+}, {
+  "timestamp" : 114823,
+  "label" : {
+    "name" : "Window",
+    "confidence" : 53.0788
+  }
+}, {
+  "timestamp" : 116825,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 53.6079
+  }
+}, {
+  "timestamp" : 117033,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 57.357903
+  }
+}, {
+  "timestamp" : 117200,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 56.7251
+  }
+}, {
+  "timestamp" : 117408,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 58.915596
+  }
+}, {
+  "timestamp" : 117617,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 57.801598
+  }
+}, {
+  "timestamp" : 117617,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 56.892902
+  }
+}, {
+  "timestamp" : 117617,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 54.4981
+  }
+}, {
+  "timestamp" : 117826,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 53.7207
+  }
+}, {
+  "timestamp" : 117826,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 55.3037
+  }
+}, {
+  "timestamp" : 117826,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 52.8206
+  }
+}, {
+  "timestamp" : 118034,
+  "label" : {
+    "name" : "Lighting",
+    "confidence" : 51.0315
+  }
+}, {
+  "timestamp" : 118034,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 56.6985
+  }
+}, {
+  "timestamp" : 118034,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 54.2929
+  }
+}, {
+  "timestamp" : 118201,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 55.8838
+  }
+}, {
+  "timestamp" : 118201,
+  "label" : {
+    "name" : "Train Station",
+    "confidence" : 53.433002
+  }
+}, {
+  "timestamp" : 118409,
+  "label" : {
+    "name" : "Furniture",
+    "confidence" : 53.623497
+  }
+}, {
+  "timestamp" : 118409,
+  "label" : {
+    "name" : "Terminal",
+    "confidence" : 50.899498
+  }
+}, {
+  "timestamp" : 118827,
+  "label" : {
+    "name" : "Fisheye",
+    "confidence" : 58.0454
+  }
+}, {
+  "timestamp" : 118993,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 53.0566
+  }
+}, {
+  "timestamp" : 119202,
+  "label" : {
+    "name" : "Fisheye",
+    "confidence" : 56.945698
+  }
+}, {
+  "timestamp" : 119202,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 53.405796
+  }
+}, {
+  "timestamp" : 119410,
+  "label" : {
+    "name" : "License",
+    "confidence" : 50.683395
+  }
+}, {
+  "timestamp" : 119410,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 58.354904
+  }
+}, {
+  "timestamp" : 119619,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 57.431602
+  }
+}, {
+  "timestamp" : 119828,
+  "label" : {
+    "name" : "License",
+    "confidence" : 53.8263
+  }
+}, {
+  "timestamp" : 119828,
+  "label" : {
+    "name" : "License Plate",
+    "confidence" : 51.261097
+  }
+}, {
+  "timestamp" : 119828,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 61.0089
+  }
+}, {
+  "timestamp" : 119994,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 55.255596
+  }
+}, {
+  "timestamp" : 120203,
+  "label" : {
+    "name" : "License",
+    "confidence" : 51.2844
+  }
+}, {
+  "timestamp" : 120203,
+  "label" : {
+    "name" : "Logo",
+    "confidence" : 56.3344
+  }
+}, {
+  "timestamp" : 120203,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 58.8624
+  }
+}, {
+  "timestamp" : 120203,
+  "label" : {
+    "name" : "Trademark",
+    "confidence" : 56.3344
+  }
+}, {
+  "timestamp" : 120411,
+  "label" : {
+    "name" : "Logo",
+    "confidence" : 59.4182
+  }
+}, {
+  "timestamp" : 120411,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 54.912903
+  }
+}, {
+  "timestamp" : 120411,
+  "label" : {
+    "name" : "Trademark",
+    "confidence" : 59.4182
+  }
+}, {
+  "timestamp" : 120411,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 50.6158
+  }
+}, {
+  "timestamp" : 120620,
+  "label" : {
+    "name" : "Fisheye",
+    "confidence" : 56.231804
+  }
+}, {
+  "timestamp" : 120620,
+  "label" : {
+    "name" : "Logo",
+    "confidence" : 64.3708
+  }
+}, {
+  "timestamp" : 120620,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 54.9467
+  }
+}, {
+  "timestamp" : 120620,
+  "label" : {
+    "name" : "Trademark",
+    "confidence" : 64.3708
+  }
+}, {
+  "timestamp" : 120620,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 50.8806
+  }
+}, {
+  "timestamp" : 120829,
+  "label" : {
+    "name" : "Logo",
+    "confidence" : 60.973297
+  }
+}, {
+  "timestamp" : 120829,
+  "label" : {
+    "name" : "Text",
+    "confidence" : 50.6157
+  }
+}, {
+  "timestamp" : 120829,
+  "label" : {
+    "name" : "Trademark",
+    "confidence" : 60.973297
+  }
+}, {
+  "timestamp" : 120829,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 50.8811
+  }
+}, {
+  "timestamp" : 122622,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9087
+  }
+}, {
+  "timestamp" : 122622,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8174
+  }
+}, {
+  "timestamp" : 122622,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9087
+  }
+}, {
+  "timestamp" : 122831,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.101105
+  }
+}, {
+  "timestamp" : 122831,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.2022
+  }
+}, {
+  "timestamp" : 122831,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.101105
+  }
+}, {
+  "timestamp" : 122997,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0924
+  }
+}, {
+  "timestamp" : 122997,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1848
+  }
+}, {
+  "timestamp" : 122997,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0924
+  }
+}, {
+  "timestamp" : 123206,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0492
+  }
+}, {
+  "timestamp" : 123206,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0984
+  }
+}, {
+  "timestamp" : 123206,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0492
+  }
+}, {
+  "timestamp" : 123414,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.091705
+  }
+}, {
+  "timestamp" : 123414,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1835
+  }
+}, {
+  "timestamp" : 123414,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.091705
+  }
+}, {
+  "timestamp" : 123623,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6989
+  }
+}, {
+  "timestamp" : 123623,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.3978
+  }
+}, {
+  "timestamp" : 123623,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6989
+  }
+}, {
+  "timestamp" : 123832,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.627594
+  }
+}, {
+  "timestamp" : 123832,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.2551
+  }
+}, {
+  "timestamp" : 123832,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.627594
+  }
+}, {
+  "timestamp" : 123998,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.737
+  }
+}, {
+  "timestamp" : 123998,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.474
+  }
+}, {
+  "timestamp" : 123998,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.737
+  }
+}, {
+  "timestamp" : 124207,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.7286
+  }
+}, {
+  "timestamp" : 124207,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.4572
+  }
+}, {
+  "timestamp" : 124207,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.7286
+  }
+}, {
+  "timestamp" : 124415,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.8269
+  }
+}, {
+  "timestamp" : 124415,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.6537
+  }
+}, {
+  "timestamp" : 124415,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.8269
+  }
+}, {
+  "timestamp" : 124624,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6462
+  }
+}, {
+  "timestamp" : 124624,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.2924
+  }
+}, {
+  "timestamp" : 124624,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6462
+  }
+}, {
+  "timestamp" : 124833,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6174
+  }
+}, {
+  "timestamp" : 124833,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.234604
+  }
+}, {
+  "timestamp" : 124833,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6174
+  }
+}, {
+  "timestamp" : 125041,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 58.661003
+  }
+}, {
+  "timestamp" : 125041,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 58.661003
+  }
+}, {
+  "timestamp" : 125041,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.077896
+  }
+}, {
+  "timestamp" : 125041,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1559
+  }
+}, {
+  "timestamp" : 125041,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.077896
+  }
+}, {
+  "timestamp" : 125250,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 58.1897
+  }
+}, {
+  "timestamp" : 125250,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 58.1897
+  }
+}, {
+  "timestamp" : 125250,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0594
+  }
+}, {
+  "timestamp" : 125250,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1187
+  }
+}, {
+  "timestamp" : 125250,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0594
+  }
+}, {
+  "timestamp" : 125416,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 56.6725
+  }
+}, {
+  "timestamp" : 125416,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 56.6725
+  }
+}, {
+  "timestamp" : 125416,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.991
+  }
+}, {
+  "timestamp" : 125416,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.982
+  }
+}, {
+  "timestamp" : 125416,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.991
+  }
+}, {
+  "timestamp" : 125625,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 57.753403
+  }
+}, {
+  "timestamp" : 125625,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 57.753403
+  }
+}, {
+  "timestamp" : 125625,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0776
+  }
+}, {
+  "timestamp" : 125625,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1552
+  }
+}, {
+  "timestamp" : 125625,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0776
+  }
+}, {
+  "timestamp" : 125834,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 57.580696
+  }
+}, {
+  "timestamp" : 125834,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 57.580696
+  }
+}, {
+  "timestamp" : 125834,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0682
+  }
+}, {
+  "timestamp" : 125834,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.136505
+  }
+}, {
+  "timestamp" : 125834,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0682
+  }
+}, {
+  "timestamp" : 126042,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 61.021797
+  }
+}, {
+  "timestamp" : 126042,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 61.021797
+  }
+}, {
+  "timestamp" : 126042,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.089096
+  }
+}, {
+  "timestamp" : 126042,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1781
+  }
+}, {
+  "timestamp" : 126042,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.089096
+  }
+}, {
+  "timestamp" : 126209,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 60.067898
+  }
+}, {
+  "timestamp" : 126209,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 60.067898
+  }
+}, {
+  "timestamp" : 126209,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0314
+  }
+}, {
+  "timestamp" : 126209,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.062904
+  }
+}, {
+  "timestamp" : 126209,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0314
+  }
+}, {
+  "timestamp" : 126417,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 60.4676
+  }
+}, {
+  "timestamp" : 126417,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 60.4676
+  }
+}, {
+  "timestamp" : 126417,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0786
+  }
+}, {
+  "timestamp" : 126417,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.157196
+  }
+}, {
+  "timestamp" : 126417,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0786
+  }
+}, {
+  "timestamp" : 126626,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 57.812202
+  }
+}, {
+  "timestamp" : 126626,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 57.812202
+  }
+}, {
+  "timestamp" : 126626,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.945
+  }
+}, {
+  "timestamp" : 126626,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8899
+  }
+}, {
+  "timestamp" : 126626,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.945
+  }
+}, {
+  "timestamp" : 126835,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 57.419598
+  }
+}, {
+  "timestamp" : 126835,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 57.419598
+  }
+}, {
+  "timestamp" : 126835,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.066505
+  }
+}, {
+  "timestamp" : 126835,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.1331
+  }
+}, {
+  "timestamp" : 126835,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.066505
+  }
+}, {
+  "timestamp" : 127043,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 56.145103
+  }
+}, {
+  "timestamp" : 127043,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 56.145103
+  }
+}, {
+  "timestamp" : 127043,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0299
+  }
+}, {
+  "timestamp" : 127043,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0598
+  }
+}, {
+  "timestamp" : 127043,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0299
+  }
+}, {
+  "timestamp" : 127210,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 60.058
+  }
+}, {
+  "timestamp" : 127210,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 60.058
+  }
+}, {
+  "timestamp" : 127210,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.944
+  }
+}, {
+  "timestamp" : 127210,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.888
+  }
+}, {
+  "timestamp" : 127210,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.944
+  }
+}, {
+  "timestamp" : 127418,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 60.7234
+  }
+}, {
+  "timestamp" : 127418,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 60.7234
+  }
+}, {
+  "timestamp" : 127418,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.0674
+  }
+}, {
+  "timestamp" : 127418,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.134705
+  }
+}, {
+  "timestamp" : 127418,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.0674
+  }
+}, {
+  "timestamp" : 127627,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 62.1813
+  }
+}, {
+  "timestamp" : 127627,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 62.1813
+  }
+}, {
+  "timestamp" : 127627,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9097
+  }
+}, {
+  "timestamp" : 127627,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8195
+  }
+}, {
+  "timestamp" : 127627,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9097
+  }
+}, {
+  "timestamp" : 127836,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 64.5085
+  }
+}, {
+  "timestamp" : 127836,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 64.5085
+  }
+}, {
+  "timestamp" : 127836,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 99.015495
+  }
+}, {
+  "timestamp" : 127836,
+  "label" : {
+    "name" : "People",
+    "confidence" : 98.0309
+  }
+}, {
+  "timestamp" : 127836,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 99.015495
+  }
+}, {
+  "timestamp" : 128044,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 66.191
+  }
+}, {
+  "timestamp" : 128044,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 66.191
+  }
+}, {
+  "timestamp" : 128044,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9284
+  }
+}, {
+  "timestamp" : 128044,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8567
+  }
+}, {
+  "timestamp" : 128044,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9284
+  }
+}, {
+  "timestamp" : 128211,
+  "label" : {
+    "name" : "Female",
+    "confidence" : 57.072197
+  }
+}, {
+  "timestamp" : 128211,
+  "label" : {
+    "name" : "Girl",
+    "confidence" : 57.072197
+  }
+}, {
+  "timestamp" : 128211,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9301
+  }
+}, {
+  "timestamp" : 128211,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8603
+  }
+}, {
+  "timestamp" : 128211,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9301
+  }
+}, {
+  "timestamp" : 128419,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9448
+  }
+}, {
+  "timestamp" : 128419,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8896
+  }
+}, {
+  "timestamp" : 128419,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9448
+  }
+}, {
+  "timestamp" : 128628,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.1996
+  }
+}, {
+  "timestamp" : 128628,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.3992
+  }
+}, {
+  "timestamp" : 128628,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.1996
+  }
+}, {
+  "timestamp" : 128837,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.171005
+  }
+}, {
+  "timestamp" : 128837,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.3419
+  }
+}, {
+  "timestamp" : 128837,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.171005
+  }
+}, {
+  "timestamp" : 129045,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.1888
+  }
+}, {
+  "timestamp" : 129045,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.3774
+  }
+}, {
+  "timestamp" : 129045,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.1888
+  }
+}, {
+  "timestamp" : 129212,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.0066
+  }
+}, {
+  "timestamp" : 129212,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.0131
+  }
+}, {
+  "timestamp" : 129212,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.0066
+  }
+}, {
+  "timestamp" : 129420,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.049095
+  }
+}, {
+  "timestamp" : 129420,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.098206
+  }
+}, {
+  "timestamp" : 129420,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.049095
+  }
+}, {
+  "timestamp" : 129629,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.654
+  }
+}, {
+  "timestamp" : 129629,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.308
+  }
+}, {
+  "timestamp" : 129629,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.654
+  }
+}, {
+  "timestamp" : 129838,
+  "label" : {
+    "name" : "Airplane",
+    "confidence" : 51.6051
+  }
+}, {
+  "timestamp" : 129838,
+  "label" : {
+    "name" : "Jet",
+    "confidence" : 51.6051
+  }
+}, {
+  "timestamp" : 130046,
+  "label" : {
+    "name" : "Airplane",
+    "confidence" : 52.397503
+  }
+}, {
+  "timestamp" : 130046,
+  "label" : {
+    "name" : "Jet",
+    "confidence" : 52.397503
+  }
+}, {
+  "timestamp" : 130213,
+  "label" : {
+    "name" : "Airplane",
+    "confidence" : 52.784504
+  }
+}, {
+  "timestamp" : 130213,
+  "label" : {
+    "name" : "Jet",
+    "confidence" : 52.784504
+  }
+}, {
+  "timestamp" : 130421,
+  "label" : {
+    "name" : "Airplane",
+    "confidence" : 51.8923
+  }
+}, {
+  "timestamp" : 130421,
+  "label" : {
+    "name" : "Jet",
+    "confidence" : 51.8923
+  }
+}, {
+  "timestamp" : 130630,
+  "label" : {
+    "name" : "Airplane",
+    "confidence" : 51.510002
+  }
+}, {
+  "timestamp" : 130630,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.9225
+  }
+}, {
+  "timestamp" : 130630,
+  "label" : {
+    "name" : "Jet",
+    "confidence" : 51.510002
+  }
+}, {
+  "timestamp" : 130630,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.8449
+  }
+}, {
+  "timestamp" : 130630,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.9225
+  }
+}, {
+  "timestamp" : 131422,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.6202
+  }
+}, {
+  "timestamp" : 131422,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.2404
+  }
+}, {
+  "timestamp" : 131422,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.6202
+  }
+}, {
+  "timestamp" : 132841,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.2818
+  }
+}, {
+  "timestamp" : 132841,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.5635
+  }
+}, {
+  "timestamp" : 132841,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.2818
+  }
+}, {
+  "timestamp" : 133049,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.1361
+  }
+}, {
+  "timestamp" : 133049,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.2721
+  }
+}, {
+  "timestamp" : 133049,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.1361
+  }
+}, {
+  "timestamp" : 133216,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.3569
+  }
+}, {
+  "timestamp" : 133216,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.7138
+  }
+}, {
+  "timestamp" : 133216,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.3569
+  }
+}, {
+  "timestamp" : 133424,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.2129
+  }
+}, {
+  "timestamp" : 133424,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.4257
+  }
+}, {
+  "timestamp" : 133424,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.2129
+  }
+}, {
+  "timestamp" : 133633,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.559204
+  }
+}, {
+  "timestamp" : 133633,
+  "label" : {
+    "name" : "People",
+    "confidence" : 97.1184
+  }
+}, {
+  "timestamp" : 133633,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.559204
+  }
+}, {
+  "timestamp" : 133842,
+  "label" : {
+    "name" : "Human",
+    "confidence" : 98.4
+  }
+}, {
+  "timestamp" : 133842,
+  "label" : {
+    "name" : "People",
+    "confidence" : 96.7999
+  }
+}, {
+  "timestamp" : 133842,
+  "label" : {
+    "name" : "Person",
+    "confidence" : 98.4
+  }
+}, {
+  "timestamp" : 133842,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 52.8037
+  }
+}, {
+  "timestamp" : 134050,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 56.434
+  }
+}, {
+  "timestamp" : 134217,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 61.215103
+  }
+}, {
+  "timestamp" : 134425,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 64.4567
+  }
+}, {
+  "timestamp" : 134634,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 63.8161
+  }
+}, {
+  "timestamp" : 134843,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 62.512703
+  }
+}, {
+  "timestamp" : 135009,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 62.781
+  }
+}, {
+  "timestamp" : 135218,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 61.0448
+  }
+}, {
+  "timestamp" : 135426,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 60.769897
+  }
+}, {
+  "timestamp" : 135635,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 59.6533
+  }
+}, {
+  "timestamp" : 135844,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 58.872402
+  }
+}, {
+  "timestamp" : 136010,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 58.687103
+  }
+}, {
+  "timestamp" : 136219,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 58.838303
+  }
+}, {
+  "timestamp" : 136427,
+  "label" : {
+    "name" : "Billboard",
+    "confidence" : 53.925697
+  }
+}, {
+  "timestamp" : 136427,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 59.432102
+  }
+}, {
+  "timestamp" : 136636,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 56.091
+  }
+}, {
+  "timestamp" : 136845,
+  "label" : {
+    "name" : "Word",
+    "confidence" : 53.2885
+  }
+} ]
