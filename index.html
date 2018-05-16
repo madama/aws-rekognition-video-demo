@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>AWS Rekognition Video Demo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+</head>
+<body>
+    <div id="selection-container">
+        <select id="selection">
+            <option></option>
+            <option>Avengers</option>
+            <option>birthday</option>
+            <option>jogging</option>
+            <option>Nazionale</option>
+            <option>Queen</option>
+        </select>
+    </div>
+    <div id="video-container">
+        <div id="overlay-labels"></div>
+        <video id="video" width="640" height="480" controls>
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

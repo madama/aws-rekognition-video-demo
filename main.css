@@ -1,0 +1,22 @@
+#video-container {
+  position: relative;
+  width: 640px;
+  height: 480px;
+}
+
+#overlay-labels {
+  width: 640px;
+  height: 60px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-family: 'Courier New', Courier, monospace
+}
+
+.overlay-celebrity {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  position: absolute;
+  border: 1px solid green;
+  color: green;
+}
