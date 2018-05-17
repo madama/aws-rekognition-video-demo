@@ -7,16 +7,12 @@ var select = document.getElementById("selection");
 select.onchange = function(event) {
     loadData(event.target.value);
     setTimeout(o => {
-        //console.log("Loaded " + celebrities.length + " celebrities")
-        console.log("Loaded " + labels.length + " labels")
-        cleanChild(video);
-        let source = document.createElement("source");
-        //source.setAttribute("src", "file:///home/daniele/Downloads/XPeppers/DeepLens/" + event.target.value + ".mp4");
-        source.setAttribute("src", "https://s3.eu-west-1.amazonaws.com/rekognition-video-demo/" + event.target.value + ".mp4");
-        source.setAttribute("type", "video/mp4");
-        source.setAttribute("class", "toClean");
-        video.appendChild(source);
-        video.load();
+        console.log("Loaded " + celebrities.length + " celebrities");
+        console.log("Loaded " + faces.length + " faces");
+        console.log("Loaded " + labels.length + " labels");
+        console.log("Loaded " + persons.length + " persons");
+        //video.src = "file:///home/daniele/Downloads/XPeppers/DeepLens/" + event.target.value + ".mp4";
+        video.src = "https://s3.eu-west-1.amazonaws.com/rekognition-video-demo/" + event.target.value + ".mp4";
     }, 500)
 }
 
@@ -25,10 +21,12 @@ var video = document.getElementById("video");
 
 video.ontimeupdate = function() {
     let timestamp = getVideoTimestamp();
-    let frameLabels = getLabelsFor(timestamp);
-    displayLabels(frameLabels);
     let frameCelebrities = getCelebritiesFor(timestamp);
     displayCelebrities(frameCelebrities);
+    let frameFaces = getFacesFor(timestamp);
+    displayFaces(frameFaces);
+    let frameLabels = getLabelsFor(timestamp);
+    displayLabels(frameLabels);
 };
 
 // CELEBRITIES
@@ -44,12 +42,12 @@ function getCelebritiesFor(timestamp) {
 
 function displayCelebrities(frameCelebrities) {
     let overlay = document.getElementById("video-container");
-    cleanChild(overlay);
+    cleanChild(overlay, "overlay-celebrity");
     frameCelebrities.forEach(function(item) {
         let celebrity = item.celebrity;
         let name = celebrity.name;
-        let bb = celebrity.face && celebrity.face.boundingBox ? celebrity.face.boundingBox : celebrity.boundingBox;
-        //let bb = celebrity.face && celebrity.face.boundingBox ? celebrity.face.boundingBox : null;
+        //let bb = celebrity.face && celebrity.face.boundingBox ? celebrity.face.boundingBox : celebrity.boundingBox;
+        let bb = celebrity.face && celebrity.face.boundingBox ? celebrity.face.boundingBox : null;
         let pose = celebrity.face && celebrity.face.pose ? celebrity.face.pose : null;
         if (bb == null) {
             //console.log(name + " - " + item.timestamp);
@@ -61,6 +59,64 @@ function displayCelebrities(frameCelebrities) {
             overlay.appendChild(div);
         }
     });
+}
+
+// FACES
+function getFacesFor(timestamp) {
+    let selectedFaces = new Array();
+    faces.forEach(function(face) {
+        if (face.timestamp > timestamp && face.timestamp < (timestamp + 200)) {
+            selectedFaces.push(face);
+        }
+    });
+    return selectedFaces;
+}
+
+function displayFaces(frameFaces) {
+    let overlay = document.getElementById("video-container");
+    let faces = document.getElementById("faces-container");
+    cleanChild(overlay, "overlay-face");
+    cleanChild(faces);
+    frameFaces.forEach(function(item) {
+        let face = item.face;
+        let bb = face.boundingBox;
+        let pose = face.pose;
+        let div = document.createElement("div");
+        div.style = convertBoundingBoxToCSS(bb, pose);
+        div.className = "overlay-face toClean";
+        div.innerText = item.timestamp;
+        overlay.appendChild(div);
+        let p = document.createElement("p");
+        p.className = "face toClean";
+        let faceHTML = "<ul>" + item.timestamp;
+        faceHTML += "<li>Gender: " + face.gender.value + "</li>";
+        faceHTML += "<li>Age: " + face.ageRange.low + "/" + face.ageRange.high + "</li>";
+        if (face.emotions.length > 0) {
+            faceHTML += "<li>Emotions: ";
+            face.emotions.forEach(element => {
+                faceHTML += element.type + " ";
+            });
+            faceHTML += "</li>";
+        }
+        if (face.smile.value) {
+            faceHTML += "<li>Smiling</li>";
+        }
+        if (faces.eyeglasses && faces.eyeglasses.value) {
+            faceHTML += "<li>Eyeglasses</li>";
+        }
+        if (faces.sunglasses && faces.sunglasses.value) {
+            faceHTML += "<li>Sunglasses</li>";
+        }
+        if (faces.beard && faces.beard.value) {
+            faceHTML += "<li>Beard</li>";
+        }
+        if (faces.mustache && faces.mustache.value) {
+            faceHTML += "<li>Mustache</li>";
+        }
+        faceHTML += "</ul>";
+        p.innerHTML = faceHTML;
+        faces.appendChild(p);
+});
 }
 
 // LABELS
@@ -80,7 +136,7 @@ function displayLabels(frameLabels) {
     frameLabels.forEach(function(item) {
         items.push(item.label.name);
     });
-    overlay.textContent = unique(items);
+    overlay.textContent = unique(items).toString().replace(/,/g, ", ");
 }
 
 // UTILS
@@ -114,11 +170,17 @@ function addScript(container, path) {
     container.appendChild(script);
 }
 
-function cleanChild(parent) {
-    let toClean = parent.getElementsByClassName("toClean");
+function cleanChild(parent, classes) {
+    if (classes == undefined) {
+        classes = "";
+    }
+    classes += " toClean";
+    let toClean = parent.getElementsByClassName(classes);
+    let size = toClean.length;
     for (var i=toClean.length; i>0; i--) {
         toClean[i-1].remove();
     }
+    return size;
 }
 
 function unique(arr) {

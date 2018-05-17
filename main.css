@@ -13,10 +13,23 @@
   font-family: 'Courier New', Courier, monospace
 }
 
+#faces-container {
+  position: relative;
+  float: right;
+}
+
 .overlay-celebrity {
   margin-top: 30px;
   margin-bottom: 30px;
   position: absolute;
   border: 1px solid green;
   color: green;
+}
+
+.overlay-face {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  position: absolute;
+  border: 1px solid orangered;
+  color: orangered;
 }
