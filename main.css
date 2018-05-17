@@ -22,8 +22,7 @@
 
 .overlay-face {
   position: absolute;
-  border: 1px solid orangered;
-  color: orangered;
+  border: 1px solid;
 }
 .overlay-face > span {
   position: absolute;
@@ -33,8 +32,7 @@
 
 .overlay-person {
   position: absolute;
-  border: 1px solid purple;
-  color: purple;
+  border: 1px solid;
 }
 
 .left {
@@ -45,3 +43,15 @@
   float: left;
   margin-top: 90px;
 }
+
+.color1 {color: black; border-color: black;}
+.color1 {color: blue; border-color: blue;}
+.color2 {color: brown; border-color: brown;}
+.color3 {color: darkgreen; border-color: darkgreen;}
+.color4 {color: darkorange; border-color: darkorange;}
+.color5 {color: fuchsia; border-color: fuchsia;}
+.color6 {color: limegreen; border-color: limegreen;}
+.color7 {color: teal; border-color: teal;}
+.color8 {color: yellow; border-color: yellow;}
+.color9 {color: lightpink; border-color: lightpink;}
+.color10 {color: sienna; border-color: sienna;}

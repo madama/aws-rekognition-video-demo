@@ -77,18 +77,23 @@ function displayFaces(frameFaces) {
     let faces = document.getElementById("faces-container");
     cleanChild(overlay, "overlay-face");
     cleanChild(faces);
+    let index = 1;
     frameFaces.forEach(function(item) {
         let face = item.face;
         let bb = face.boundingBox;
         let pose = face.pose;
         let div = document.createElement("div");
-        div.style = convertBoundingBoxToCSS(bb, pose);
-        div.className = "overlay-face toClean";
-        div.innerHTML = "<span>" + item.timestamp + "</span>";
+        /*let color = face.confidence.toString().substring(face.confidence.toString().indexOf(".")+1);
+        color = Math.round(color * 360 / 999999);
+        color = "hsl(" + color + ", 100%, 50%)";*/
+        let color = "color" + index++;
+        div.style = convertBoundingBoxToCSS(bb, pose) + ";";
+        div.className = "overlay-face toClean " + color;
+        div.innerHTML = "<span>" + face.confidence + "</span>";
         overlay.appendChild(div);
         let p = document.createElement("p");
         p.className = "face toClean";
-        let faceHTML = "<ul>" + item.timestamp;
+        let faceHTML = "<ul class=\"" + color + "\">" + face.confidence;
         faceHTML += "<li>Gender: " + face.gender.value + "</li>";
         faceHTML += "<li>Age: " + face.ageRange.low + "/" + face.ageRange.high + "</li>";
         if (face.emotions.length > 0) {
@@ -165,7 +170,7 @@ function displayPersons(framePersons) {
         } else if (!displayed.includes(index)) {
             let div = document.createElement("div");
             div.style = convertBoundingBoxToCSS(bb, pose);
-            div.className = "overlay-person toClean";
+            div.className = "overlay-person toClean color" + index % 10;
             div.innerText = index;
             overlay.appendChild(div);
             displayed.push(index);
