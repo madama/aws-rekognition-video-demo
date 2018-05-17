@@ -153,6 +153,7 @@ function getPersonsFor(timestamp) {
 function displayPersons(framePersons) {
     let overlay = document.getElementById("video-container");
     cleanChild(overlay, "overlay-person");
+    let displayed = new Array();
     framePersons.forEach(function(item) {
         let person = item.person;
         let index = person.index;
@@ -161,12 +162,13 @@ function displayPersons(framePersons) {
         let pose = person.face && person.face.pose ? person.face.pose : null;
         if (bb == null) {
             //console.log(name + " - " + item.timestamp);
-        } else {
+        } else if (!displayed.includes(index)) {
             let div = document.createElement("div");
             div.style = convertBoundingBoxToCSS(bb, pose);
             div.className = "overlay-person toClean";
             div.innerText = index;
             overlay.appendChild(div);
+            displayed.push(index);
         }
     });
 }
