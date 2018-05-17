@@ -1,9 +1,6 @@
 #overlay-labels {
   width: 800px;
   height: 60px;
-  position: absolute;
-  left: 0;
-  top: 0;
   font-family: 'Courier New', Courier, monospace
 }
 
