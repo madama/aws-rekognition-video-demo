@@ -33,3 +33,11 @@
   border: 1px solid orangered;
   color: orangered;
 }
+
+.overlay-person {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  position: absolute;
+  border: 1px solid purple;
+  color: purple;
+}

@@ -27,6 +27,8 @@ video.ontimeupdate = function() {
     displayFaces(frameFaces);
     let frameLabels = getLabelsFor(timestamp);
     displayLabels(frameLabels);
+    let framePersons = getPersonsFor(timestamp);
+    displayPersons(framePersons);
 };
 
 // CELEBRITIES
@@ -137,6 +139,38 @@ function displayLabels(frameLabels) {
         items.push(item.label.name);
     });
     overlay.textContent = unique(items).toString().replace(/,/g, ", ");
+}
+
+// PERSONS
+function getPersonsFor(timestamp) {
+    let selectedPersons = new Array();
+    persons.forEach(function(person) {
+        if (person.timestamp > timestamp && person.timestamp < (timestamp + 200)) {
+            selectedPersons.push(person);
+        }
+    });
+    return selectedPersons;
+}
+
+function displayPersons(framePersons) {
+    let overlay = document.getElementById("video-container");
+    cleanChild(overlay, "overlay-person");
+    framePersons.forEach(function(item) {
+        let person = item.person;
+        let index = person.index;
+        let bb = person.face && person.face.boundingBox ? person.face.boundingBox : person.boundingBox;
+        //let bb = person.face && person.face.boundingBox ? person.face.boundingBox : null;
+        let pose = person.face && person.face.pose ? person.face.pose : null;
+        if (bb == null) {
+            //console.log(name + " - " + item.timestamp);
+        } else {
+            let div = document.createElement("div");
+            div.style = convertBoundingBoxToCSS(bb, pose);
+            div.className = "overlay-person toClean";
+            div.innerText = index;
+            overlay.appendChild(div);
+        }
+    });
 }
 
 // UTILS
