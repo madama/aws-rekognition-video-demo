@@ -1,16 +1,15 @@
-#video-container {
-  position: relative;
-  width: 640px;
-  height: 480px;
-}
-
 #overlay-labels {
-  width: 640px;
+  width: 800px;
   height: 60px;
   position: absolute;
   left: 0;
   top: 0;
   font-family: 'Courier New', Courier, monospace
+}
+
+#video-container {
+  position: relative;
+  width: 800px;
 }
 
 #faces-container {
@@ -19,16 +18,12 @@
 }
 
 .overlay-celebrity {
-  margin-top: 30px;
-  margin-bottom: 30px;
   position: absolute;
   border: 1px solid green;
   color: green;
 }
 
 .overlay-face {
-  margin-top: 30px;
-  margin-bottom: 30px;
   position: absolute;
   border: 1px solid orangered;
   color: orangered;
@@ -40,15 +35,13 @@
 }
 
 .overlay-person {
-  margin-top: 30px;
-  margin-bottom: 30px;
   position: absolute;
   border: 1px solid purple;
   color: purple;
 }
 
 .left {
-  width: 640px;
+  width: 800px;
   float: left;
 }
 .right {

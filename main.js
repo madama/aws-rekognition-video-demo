@@ -1,5 +1,3 @@
-var labels;
-
 
 // SELECTION LISTENER
 var select = document.getElementById("selection");
