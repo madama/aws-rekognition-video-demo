@@ -11,7 +11,7 @@ select.onchange = function(event) {
         console.log("Loaded " + persons.length + " persons");
         //video.src = "file:///home/daniele/Downloads/XPeppers/DeepLens/" + event.target.value + ".mp4";
         video.src = "https://s3.eu-west-1.amazonaws.com/rekognition-video-demo/" + event.target.value + ".mp4";
-    }, 500)
+    }, 2500)
 }
 
 // VIDEO LISTENER
