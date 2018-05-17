@@ -86,7 +86,7 @@ function displayFaces(frameFaces) {
         let div = document.createElement("div");
         div.style = convertBoundingBoxToCSS(bb, pose);
         div.className = "overlay-face toClean";
-        div.innerText = item.timestamp;
+        div.innerHTML = "<span>" + item.timestamp + "</span>";
         overlay.appendChild(div);
         let p = document.createElement("p");
         p.className = "face toClean";

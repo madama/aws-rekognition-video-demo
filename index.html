@@ -7,28 +7,33 @@
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
 </head>
 <body>
-    <div id="selection-container">
-        <select id="selection">
-            <option></option>
-            <option>Avengers</option>
-            <option>birthday</option>
-            <option>jogging</option>
-            <option>Nazionale</option>
-            <option>Queen</option>
-        </select>
+    <div class="left">
+        <div id="selection-container">
+            <select id="selection">
+                <option></option>
+                <option>Avengers</option>
+                <option>birthday</option>
+                <option>jogging</option>
+                <option>Nazionale</option>
+                <option>Queen</option>
+            </select>
+        </div>
+        <div id="video-container">
+            <div id="overlay-labels"></div>
+            <video id="video" width="640" height="480" controls>
+                Your browser does not support the video tag.
+            </video>
+        </div>
     </div>
-    <div id="video-container">
-        <div id="overlay-labels"></div>
-        <video id="video" width="640" height="480" controls>
-            Your browser does not support the video tag.
-        </video>
+    <div class="right">
+        <div id="faces-container"></div>
     </div>
-    <div id="faces-container"></div>
+    
     <script src="main.js"></script>
     <!--
         Stefix
         - align text in .overlay-face at bottom right
-        - move #faces-container at right of #video-container
+        - move #faces-container at right of #video-container OK
         - fix position of overlay on the video
         - is better to use different colors for persons.index?
     -->
